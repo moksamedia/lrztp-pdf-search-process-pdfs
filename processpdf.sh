@@ -1,8 +1,9 @@
 IN_FILE="$1"
-BASE_NAME="${IN_FILE%%.*}"
+FILE_NAME=$(basename "${IN_FILE}")
+BASE_NAME="${FILE_NAME%%.*}"
 OUT_FILE="${BASE_NAME}_ocr.pdf"
 TXT_FILE="$BASE_NAME.txt"
-OUTPUT_DIR="../pdf-output/$BASE_NAME"
+OUTPUT_DIR="./pdf-output/$BASE_NAME"
 
 if [ "$2" == "--force-rm" ]; then
   rm -r "$OUTPUT_DIR"

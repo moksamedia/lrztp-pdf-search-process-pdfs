@@ -75,7 +75,7 @@ async function run () {
     for (const nextFile of files) {
         console.log(`Processing ${baseName} - ${nextFile.name}`)
         const id = nextFile.name.replace(".txt","")
-        const exists = await client.exists({ id, INDEX })
+        const exists = await client.exists({ id, index:INDEX })
         if (!exists) {
           await client.index({
             index: INDEX,
@@ -88,6 +88,10 @@ async function run () {
               page: nextFile.page
             }
           })
+          console.log(`- id ${id} created`)
+        }
+        else {
+          console.log(`- id ${id} already exists`)
         }
     }
 
@@ -95,7 +99,7 @@ async function run () {
     for (const nextFile of rawFiles) {
         console.log(`Processing ${baseName} - ${nextFile.name}`)
         const id = nextFile.name.replace(".txt","")
-        const exists = await client.exists({ id, INDEX })
+        const exists = await client.exists({ id, index:INDEX })
         if (!exists) {
           await client.index({
             index: INDEX,
@@ -108,6 +112,10 @@ async function run () {
               page: nextFile.page
             }
           })
+          console.log(`- id ${id} created`)
+        }
+        else {
+          console.log(`- id ${id} already exists`)
         }
     }
   }
