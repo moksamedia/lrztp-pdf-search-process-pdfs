@@ -1,4 +1,5 @@
 const fs = require('fs');
+const PropertiesReader = require('properties-reader');
 
 const outputDir = './pdf-output/'
 
@@ -9,16 +10,22 @@ const getDirectories = source =>
 
 const dirs = getDirectories("./pdf-output")
 
-console.log(dirs)
+//console.log(dirs)
 
 const PAGE_REGEX = /_pp([0-9]{4}).txt/
 
 const toProcess = []
 
 dirs.forEach (dir => {
+
   const baseName = dir
   const ocrName = baseName + "_ocr_pp"
   const rawName = baseName + "_pp"
+
+  const propFile = outputDir+dir+"/"+'fields.properties'
+  console.log("Looking for prop file: "+propFile)
+  const customProperties = fs.existsSync(propFile) ? PropertiesReader(outputDir+dir+"/"+'fields.properties').getAllProperties() : null
+  console.log(customProperties)
 
   console.log("Processing " + baseName)
 
@@ -27,12 +34,13 @@ dirs.forEach (dir => {
     .map(dirent => {
       const matches = PAGE_REGEX.exec(dirent.name)
       const text = fs.readFileSync(outputDir+dir+"/"+dirent.name,"utf8")
-      console.log(text)
+      //console.log(text)
       return {
         name: dirent.name,
         dirent: dirent,
         page: parseInt(matches[1]),
-        text: text
+        text: text,
+        customProperties: customProperties
       }
     })
 
@@ -41,12 +49,13 @@ dirs.forEach (dir => {
     .map(dirent => {
       const matches = PAGE_REGEX.exec(dirent.name)
       const text = fs.readFileSync(outputDir+dir+"/"+dirent.name,"utf8")
-      console.log(text)
+      //console.log(text)
       return {
         name: dirent.name,
         dirent: dirent,
         page: parseInt(matches[1]),
-        text: text
+        text: text,
+        customProperties: customProperties
       }
     })
 
@@ -58,7 +67,7 @@ dirs.forEach (dir => {
   })
 })
 
-console.log(toProcess)
+//console.log(toProcess)
 
 const { Client } = require('@elastic/elasticsearch')
 const client = new Client({
@@ -75,18 +84,22 @@ async function run () {
     for (const nextFile of files) {
         console.log(`Processing ${baseName} - ${nextFile.name}`)
         const id = nextFile.name.replace(".txt","")
-        const exists = await client.exists({ id, index:INDEX })
+        const exists = false //await client.exists({ id, index:INDEX })
         if (!exists) {
+          const document = {
+            ocr: true,
+            text: nextFile.text,
+            fileName: nextFile.name,
+            baseName: baseName,
+            page: nextFile.page,
+            ...nextFile.customProperties
+          }
+          console.log("customProperties: ", next.customProperties)
+          console.log("document: ", document)
           await client.index({
             index: INDEX,
-            id: id,
-            document: {
-              ocr: true,
-              text: nextFile.text,
-              fileName: nextFile.name,
-              baseName: baseName,
-              page: nextFile.page
-            }
+            id,
+            document
           })
           console.log(`- id ${id} created`)
         }
@@ -99,7 +112,7 @@ async function run () {
     for (const nextFile of rawFiles) {
         console.log(`Processing ${baseName} - ${nextFile.name}`)
         const id = nextFile.name.replace(".txt","")
-        const exists = await client.exists({ id, index:INDEX })
+        const exists = false //await client.exists({ id, index:INDEX })
         if (!exists) {
           await client.index({
             index: INDEX,
@@ -109,7 +122,8 @@ async function run () {
               text: nextFile.text,
               fileName: nextFile.name,
               baseName: baseName,
-              page: nextFile.page
+              page: nextFile.page,
+              ...nextFile.customProperties
             }
           })
           console.log(`- id ${id} created`)

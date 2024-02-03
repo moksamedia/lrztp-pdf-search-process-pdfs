@@ -30,6 +30,9 @@ cp "$IN_FILE" "$OUTPUT_DIR"
 num_pages=`pdfinfo "$IN_FILE" | awk '/^Pages:/ {print $2}'`
 echo "num pages in pdf=$num_pages"
 
+#echo -e "numpages=$num_pages" >> "./pdf-to-process/fields.properties"
+cp "./pdf-to-process/fields.properties" "$OUTPUT_DIR/fields.properties"
+
 echo "Exporting text of non-ocr document to '${OUTPUT_DIR}/${BASE_NAME}.txt'"
 #pdftotext "${IN_FILE}" "${OUTPUT_DIR}/${BASE_NAME}.txt"
 for ((i = 1; i <= $num_pages; i++))
