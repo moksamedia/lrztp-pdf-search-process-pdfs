@@ -1,0 +1,41 @@
+Note: Any of the attached letters can only be attached to a main letter མིང་གཞི, never to a
+prefix སྔློན་འཇུག་ or suffix རེས་འཇུག་ However, the ཝ་ཟུར་ can be added to an attached ར་
+བཏགས་, as in the following example: སློབ་གྲྭ་: school
+HOW TO IDENTIFY THE MAIN LETTER, མིང་གཞི་OF A SYLLABLE
+The first step in being able to read is to identify the main letter མིང་གཞི་ of a syllable. There
+are a few rules and clues, as follows:
+a)
+Whichever letter has a vowel དབངས་, head letter མགློ་ཅན་ or attached letter འདློགས་ཅན་
+MUST be the main letter མིང་གཞི་. For example:
+མེ་ཏློག་ : flower
+མ་ and ཏ་ each have a vowel དབངས་ and are both main letters, མིང་གཞི་.
+b)
+Whenever there are only two letters and no vowel, དབངས་, then the first is the main
+letter, མིང་གཞི་ and the second is the suffix, རེས་འཇུག་. For example:
+དང་ : and ད་ is the main letter, མིང་གཞི་ , ང་ is the suffix, རེས་འཇུག་ .
+c)
+Whenever there are three letters, the middle one is normally the main letter, མིང་གཞི་.
+For example:
+བཀའ་: speech
+བ་ is the prefix, སྔློན་འཇུག་,
+ཀ་ is the main letter, མིང་གཞི་,
+འ་ is the suffix, རེས་འཇུག་.
+d)
+When the final letter is the ཡང་འཇུག་ (second suffix), ས་, then the first letter is the
+main letter, མིང་གཞི , the second the suffix, རེས་འཇུག་ and the third the second suffix,
+ཡང་འཇུག. For example:
+གངས་: snow
+ག་ is the main letter མིང་གཞི་, ང་ is the suffix རེས་འཇུག་, ས is the
+second suffix ཡང་འཇུག་.
+e)
+When there are four letters in a syllable written one after the other, the second is the
+main letter, མིང་གཞི་. This is because there is no third suffix. For example:
+བསགས་པ་: accumulated
+བ་ is the prefix, སྔློན་འཇུག་,
+ས་ is the main letter, མིང་གཞི་,
+ག་ is the suffix, རེས་འཇུག་,
+ས is the second suffix, ཡང་འཇུག་
+
+࿉ 22 ࿉
+
+

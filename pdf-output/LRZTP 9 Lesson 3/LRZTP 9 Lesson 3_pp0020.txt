@@ -1,0 +1,79 @@
+Plural:
+First Person
+གང་ཟག་དང་པོ།
+
+Second Person
+Third Person
+གང་ཟག་གཉིས་པ།
+གང་ཟག་གསུམ་པ།
+ཁེད་རྣམ་ཚོའི་ (literary: ཁེད་རྣམ་པ་ ཁོང་རྣམ་ཚོའི་ (literary: ཁོང་རྣམ་པ་
+ཚོའི་)
+ཚོའི་)
+(your/yours) (HH)
+(their/theirs) (HH)
+ཁེད་གཉིས་ཀི་ /ཁེད་རང་གཉིས་ཀི་ ཁོང་གཉིས་ཀི་
+for two people
+for two people
+ཁེད་རང་གི་ (your/yours) H
+
+ཁོང་ཚོའ་ི (their/theirs) H
+
+Informal
+ཁོད་རང་ཚོའི་
+(your/yours) informal
+ཁོད་གཉིས་ཀི་
+(your/yours-for two people)
+ཁོད་རང་གཉིས་ཀི་
+(your/yours-for two people)
+
+Informal
+ཁོ་རང་ཚོའི་
+(their/theirs) informal
+ཁོ་རང་གཉིས་ཀི་
+(their/theirs-for two people)
+མོ་རང་ཚོའི་
+(their/theirs-specifically for
+females) informal
+མོ་རང་གཉིས་ཀི་
+(their/theirs-for two females)
+
+ང་ཚོའི་ (our/ours)
+ང་གཉིས་ཀི་ (our/ours-for two
+people)
+ང་རང་ཚོའི་ (our/ours)
+
+The usage and position of the possessive pronouns within the sentence is the same as in English.
+For example:
+བློ་བཟང་
+ངའི་
+གོགས་པོ་
+རེད།
+Lobsang
+my
+friend
+is
+Lobsang is my friend.
+མི་
+ཕ་གི་
+ཁེད་རང་གི་ དགེ་རྒན་
+རེད་ པས།
+person
+over there your
+teacher
+is
+?
+Is the person over there your teacher? (H)
+ཁོང་གི་
+བླ་མ་
+བལ་ཡུལ་
+ལ་
+ཡོད་མ་རེད།
+his
+lama
+Nepal
+in
+is not
+His teacher is not in Nepal. (H)
+◀20▶
+
+

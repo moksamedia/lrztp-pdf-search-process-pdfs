@@ -1,0 +1,47 @@
+How (noun & adj.)
+གང་འདྲས་ཟེ་
+How (verb)
+
+How is your country’s weather?
+ཇ་འདི་གང་འདྲས་ཟེ་བཟོས་པ་ཡིན། - འོ་མ་བླུགས་ནས་བཟོས་པ་ཡིན།
+How did you make this tea? - I made it putting milk (inside).
+
+དུས་གསུམ་གི་བ་ཚིག The three tenses of the verbs (actually 4 if we count imperative)
+1) General Knowledge About Tibetan Language
+
+In your exam there won't be any theoretical questions, in other words, this paragraph will not be tested
+separately but implicitly you need to know and use all of this all the time 😉
+a) Auxiliaries
+Tibetan language makes use of auxiliaries to express the different times and modes of the verbs (such
+as volitional, direct experience, etc.). The auxiliaries are added to the main verb, some verbs have a
+special form for the past, such as: འགྲོ་ (present) - ཕིན་ (past), ཟ་ (present) - བཟས་ (past) - others are the
+same in the three times: མཐོང་, ཀློག་, etc. For example:
+ཁོང་སོབ་གྲྭ་ལ་འགྲོ་གི་འདུག
+འགྲོ་ = main verb (present), གི་ = འབེལ་སྒྲ་, འདུག verb to be/have
+(S)he goes to school./(S)he is going to school.
+The auxiliaries of present and future consist of the verb "to have" and "to be" added to a འབེལ་སྒྲ་
+(connective particle) and have the same notions! འདུག = གི་འདུག = direct knowledge (གཞན་).
+This is not a function of the འབེལ་སྒྲ་, but the same rule - which one to use after which རེས་འཇུག (suffix)
+applies:
+རེས་འཇུག
+འབེལ་སྒྲ་
+དཔེ་
+Suffix
+Connective particle
+Example:
+ག་ ང་
+གི་
+ངས་ཞི་མི་མཐོང་གི་འདུག I see the cat.
+བ་ ས་ ད་
+ཀི་
+ཁོ་ཞབས་འབོ་ཁྲབ་ཀི་འདུག He dances.
+ན་ མ་ ར་ ལ་ གི་
+པུ་གུ་ཉལ་གི་འདུག The kid sleeps.
+No suffix གི་
+ང་དགོན་པ་ལ་འགྲོ་གི་ཡིན། I'll go to the monastery.
+
+©2023 LRZTP
+
+page 8
+
+

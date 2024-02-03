@@ -1,0 +1,33 @@
+༄༅། ། ལོ་ཙཱ་བ་རིན་ཆེན་བཟང་པོའི་སྐད་སྒྱུར་སོབ་གྲྭའི་སོབ་ཚན། །
+LRZTP 9 Module 2 – Lesson 13, August 2023
+b) The Conditional and the Present tense
+For the structure to be grammatically correct, any verb that precedes ན་ should be in the Past
+tense. This is because the condition always precedes the consequence (i.e. the second part of
+the sentence). However, in spoken Tibetan the Present tense is sometimes used. For example:
+ཟ་ཁང་འདིར་ཁ་ལག་ཟ་ན་གོད་ཁོག་ན་གི་རེད།
+If you eat in this restaurant, you’ll get a stomach ache.
+It is much better to say:
+ཟ་ཁང་འདིར་ཁ་ལག་བཟས་ན་གོད་ཁོག་ན་གི་རེད།
+Likewise:
+གལ་སིད་ཁེད་རང་ལས་ཀ་མང་པོ་བྱས་ན་དཀའ་ལས་ཁག་གི་རེད།
+If you work a lot, you will get tired.
+གལ་སིད་ཁེད་རང་ལས་ཀ་མང་པོ་བྱེད་ཀི་ཡོད་ན་དཀའ་ལས་ཁག་གི་རེད།
+If you work a lot, you will get tired.
+The difference between the above two sentences is that the second is more specific and the
+first (without auxiliary) more general. When there is an auxiliary, we are talking about a
+concrete situation. If the verb directly precedes the ན་, we are not talking about anything
+specific but rather about a general truth or fact.
+སོབ་ཕྲུག་ཚོས་བསར་སོང་མ་བྱས་ན་ཚིག་དེ་ཚོ་བརེད་ཀི་རེད། or: བརེད་འགོ་གི་རེད།
+If the students don't do the review, [they] will forget the words.
+ཁེད་རང་རང་སོང་མ་བྱས་ན་རྒན་ལགས་ཀིས་བཀའ་བཀོན་གནང་གི་རེད།
+If you do not do your homework, teacher will scold [you].
+If the situation is acute or extreme, the auxiliary འདུག is sometimes used before ན་. For
+example:
+ཁེད་རང་ངའི་ཁི་ལ་ཞེད་ཀི་འདུག་ན་ངས་བཏགས་ཆོག
+If you are (really) afraid of my dog, then I'll tie him up.
+Note: the Present Conditional is commonly used to express both of the following
+constructions: “May I … ?”, “Is it fine if ...” For example:
+©2023 LRZTP
+15
+
+

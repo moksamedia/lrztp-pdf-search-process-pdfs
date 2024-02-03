@@ -1,0 +1,43 @@
+Pronunciation rule for letters of the 3rd column
+A main letter of the 3rd column loses its aspiration when it has a prefix, སྔློན་འཇུག་ or a
+head letter, མགློ་ཅན་.
+(This rule only applies for the first five rows of the alphabet.)
+Prefixes, སྔློན་འཇུག་ also affect the sound of the 4th column (very female letters) ང་, ཉ་, ན་, མ་
+and the female letter ཡ་.
+Pronunciation rule for letters of the 4th column
+A main letter of the 4th column which takes a prefix, སྔློན་འཇུག་ or a head-letter changes
+from low to high tone:
+(This rule also applies only for the first five rows of the alphabet.)
+For example:
+ཡར་ (low tone):
+ནང་ (low tone):
+ཉལ་ (low tone):
+
+upwards
+house, home
+to sleep
+
+གཡག་ (high tone): yak
+གནང་ (high tone) : to do (H)
+གཉིས་ (high tone): two
+
+Pronunciation rule for letters of the 1st and 2nd columns
+If a prefix, སྔློན་འཇུག་ precedes a letter of the 1st or 2nd column, i.e. the male and neutral
+letters, the sound of the main letter, མིང་གཞི་ is unaffected.
+Examples for 1st and 2nd columns:
+• བཀའ་མློལ་: speech (H) Main letter, མིང་གཞི་ “ཀ་” is from 1st column. This ཀ་ is
+pronounced in exactly the same way as in the word ཀ་བ་ (pillar), where it does not
+have any prefix.
+• ནམ་མཁའ་: sky. Main letter, མིང་གཞི་ “ཁ་” is from 2nd column (neutral letters). The ཁ་ in
+this word is pronounced in exactly the same way as in the word ཁ་ (mouth), where it
+does not have any prefix.
+• མཚོ་: lake. Main letter, མིང་གཞི་ “ཚོ་” is from 2nd column (neutral letters). This letter ཚོ་
+sounds exactly the same as in the syllable ཚོ་ (plural marker) In summary, it seems
+that only female and very female letters are affected by the prefixes, སྔློན་འཇུག
+As stated previously, the prefixes, སྔློན་འཇུག་ are mostly silent. There are a few exceptions
+where they are pronounced. For example:
+• བློ་བཟང་: sometimes pronounced “Lobsang” rather than “Losang”
+• ཨ་མདློ་: pronounced “Amdo” rather than “Ado” (an Eastern province of Tibet).
+࿉ 12 ࿉
+
+

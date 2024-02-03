@@ -1,0 +1,114 @@
+Rear
+
+མ་ བརླགས པར་བྱེད་
+
+Money
+
+don’t
+
+lose
+
+ཨ།
+
+make sure that
+
+དངུལ་མ་བརླགས་པར་བྱེད་(ཨ)།
+
+Make sure you don’t lose (your) money!
+
+ངའི་ཁ་པར་ཨང་གངས་མ་བརེེད་པར་བྱེད་(ཨ)།
+
+Don’t forget my phone number!
+
+ཁྱེད་རང་གི་གློག་ཀླད་མ་བརླག་པར་བྱེད་(ཨ)།
+
+Make sure you don’t lose your computer!
+
+སྨྱུ་གུ་ས་ལ་མ་ཟག་པར་བྱེད་(ཨ)།
+
+Make sure the pen does not fall on the floor.
+
+Just a little bit about numbers, months, dates, etc. and asking the time
+ཁྱད་རང་ག་སྐྱ་སྐར་ག་དུས་རད།
+
+སྩེ་ཟླ་གསུམ་པའ་ཚེས་པ་ཉེ་ཤུ་ཆུ་བཞེ་ལ་རད།
+
+When is your birthday?
+
+On March 24th.
+
+༡༽
+
+v
+
+arg
+
+BON
+
+emir
+
+rose
+
+v
+
+v
+
+=>
+
+>
+
+TON
+
+SS.
+
+v
+
+ee
+
+v
+
+དྲ
+
+v
+
+སར
+
+>=
+
+v
+
+v
+
+འའ,
+
+=>
+
+gD
+
+ཆུ་ཙད་བདུན་དང་ཀར་མ་ཉྭ་བུ་རད།
+
+What is the time now?
+
+It is 20 past 3.
+
+༄
+vv
+aN
+>=
+ཆུ་ཚོད་ག་ཚོད་ལ་ཕབས་ཀྱ་ཡན།
+
+vv
+oN
+~
+we NN
+ཆུ་ཚོད་དགུ་པ་ཟེན་པ་ལ་སྐར་མ་བཙཾ་ལྔ་ལ་འགྲེ་ག་ཡན།
+
+What time are you going?
+
+I will go at a quarter to 9.
+
+©2023 LRZTP
+
+page 15
+
+

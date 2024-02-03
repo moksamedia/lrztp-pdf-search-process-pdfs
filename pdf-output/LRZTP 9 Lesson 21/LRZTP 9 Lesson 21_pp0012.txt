@@ -1,0 +1,36 @@
+Note: Likewise in this context, some Tibetans hold that no བེད་ས་ (agentive particle) is required for
+the first agent because the verb that precedes ཤུལ་རིང་ཀར་ is not in the past tense and the emphasis is
+on the time that the action happens rather than on the action itself. For example:
+སང་ཉིན་མཁན་རིན་པོ་ཆེས་གསུང་ཆློས་གནང་ཤུལ་རིང་ཀ་ཁེད་རང་ཚོ་གཉིད་མ་ཁུག་རློགས་གནང་།
+Tomorrow, when Khen Rinpoche is teaching, (make sure you) don’t fall asleep!
+གིན་་་་གིན།
+The connective གིན་་་་གིན་ is used when a person does two things at the same time. It might be
+translated as an adverbial clause. The གིན་ is added to the verb in the present tense and then
+repeated. The second verb in the sentence can be in any tense or mode. For example:
+ང་གཞས་ཉན་གིན་ཉན་གིན་ནང་གཙང་མ་བཟློ་གི་ཡློད།
+I clean the house while listening to music.
+ཁེད་རང་མི་ལ་སད་ཆ་དི་གིན་དི་གིན་འགློ་ན་ལམ་ཀ་དེ་རེད་ཀི་རེད།
+If you keep asking people, you will find the way.
+ངས་ཚིག་མཛོད་ལ་ལྟ་གིན་ལྟ་གིན་དཔེ་ཆ་དེ་ཡིག་བསྒྱུར་བས་པ་ཡིན།
+I translated the pecha by looking up words in the dictionary.
+དེ་རིང་ང་གཉིད་ཤློར་ཙང་བག་ལེབ་ཟ་གིན་ཟ་གིན་ལས་ཁུངས་ལ་འགློ་དགློས་བྱུང་།
+Because I overslept today, I had to eat my bread on the way to the office.
+ཁེད་རང་ལློ་རེས་མར་མུ་མཐུད་ནས་བློད་སད་སྦྱང་གི་ཡིན་པས།
+Will you keep studying Tibetan next year?
+གཏན་འཁེལ་མ་སློང་། ང་ལྟ་གིན་ལྟ་གིན་བེད་ཀི་ཡིན།
+It hasn't been decided. I’ll see how I go.
+.
+སབས་ལ།, རིང་ལ།, ཞློར་ལ།
+These temporal connectives follow immediately after the verb, which is (usually) in the Past Tense.
+They are marked by a འབེལ་སྒྲ་ (connective particle). Their usage is not limited to signifying the Past
+Tense, however. Note: རིང་ལ་ and སབས་ལ་ may also be attached to nouns.
+Examples with སབས་ལ་ / སབས་སུ་:
+ལློ་གསར་གི་སབས་ལ་བློད་པ་ཚོ་སིད་པློ་ཞེ་དགས་གཏློང་གི་ཡློད་རེད།
+On the occasion of the Tibetan New Year, Tibetans have a lot of fun.
+གུང་སེང་གི་སབས་ལ་ང་ལྷློད་ལྷློད་རང་བྱས་ནས་བསྡད་ཀི་ཡློད།
+When on holiday, all I do is relax.
+ཁློང་ཚོས་ཐུགས་སློ་ལ་གཞས་སད་ཆེན་པློ་བས་གཏློང་པའི་སབས་ལ་ཁིམ་མཚེས་བསེབས་སློང་།
+When they were playing songs loudly at the party, the neighbour turned up.
+12
+
+

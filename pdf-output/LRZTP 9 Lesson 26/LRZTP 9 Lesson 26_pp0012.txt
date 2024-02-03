@@ -1,0 +1,40 @@
+༄༅། ། ལོ་ཙཱ་བ་རིན་ཆེན་བཟང་པོའི་སྐད་སྒྱུར་སོབ་གྲྭའི་སོབ་ཚན། །
+LRZTP 9 Module 3 – Lesson 26, December 2023
+བ་ཚིག + པར་བེད་པ། to make sure X happens, to try to do X
+In the context of the Imperative (Lesson 9), you have already seen the following structure:
+b)
+
+ཚིག་དེ་ཚོ་དན་པ་མ་བརེད་པར་བེད་ཨ།
+[Make sure you] don't forget those words!
+“To forget” is an action we perform without volition. By adding པར་བེད་པ་, we effectively
+convert it into a volitional action. This rule applies not only to negations of verbs, but also to
+positive statements. Therefore, whenever པར་བེད་པ་ is added to a non-volitional verb, the
+translation is “to make sure X happens,” “to try to do X,” etc. For example:
+ངས་རང་སོང་འདི་སང་ཉིན་བས་ཚར་པ་བེད་ཀི་ཡིན།
+I'll finish this homework by tomorrow.
+ངས་ལས་ཀ་འདི་ང་རང་ལ་རག་པར་བེད་ཀི་ཡིན།
+I will try to get this job (for myself)
+ངས་དབིན་སྐད་མགོགས་པོ་ཤེས་པར་བེད་ཀི་ཡོད།
+I am trying to understand English quickly.
+ངའི་བུས་གཟའ་ཉི་མ་ལ་རེད་མོ་རེ་དུས་ཐོབ་ཡག་གི་ཐབས་ཤྟེས་བས་སོང་།
+My boy tried to win, when playing on Sunday.
+ཁྟེད་རང་གིས་བརླགས་པའི་ལྡེ་མིག་དེ་རེད་པར་བེད་ཨ།
+Try to find the key you’ve lost!
+ཁྟེད་རང་གི་ཕ་མས་སྐད་ཆ་འདི་མ་གོ་པར་བེད་དགོས་ས་རེད།
+You might have to try that your parents don't hear this.
+c)
+
+འགོའ་ོ ཡོད། འགོའ་ོ འདུག – about to, almost
+
+The auxiliary, འགོའོ། was introduced in Lesson 15 as an auxiliary of probability. It is the
+colloquial equivalent of the literary གབས་ and some native speakers still pronounce it like this.
+There is also no consensus about how to spell it. This book uses the spelling "འགོའོ།" to
+differentiate it from "འགོ་བ།" (to go). Apart from expressing probability, འགོའ།ོ has several other
+functions. Together with ཡོད།, ཡོད་རེད། and འདུག, it means "almost." For example:
+ལས་ཀ་འདི་ཚར་འགོའ་ོ འདུག
+This work is almost finished.
+©2023 LRZTP
+
+12
+
+

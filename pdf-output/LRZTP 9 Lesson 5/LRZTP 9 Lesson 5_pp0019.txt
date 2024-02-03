@@ -1,0 +1,60 @@
+༄༅། ། ལོ་ཙཱ་བ་རིན་ཆེན་བཟང་པོའི་སྐད་སྒྱུར་སོབ་གྲྭའི་སོབ་ཚན། །
+LRZTP 9 Module 1 – Lesson 5, May-June 2023
+བ་བེད་ཐ་དད་པ་དང་། བ་བེད་ཐ་མི་དད་པ།
+All Tibetan verbs may be classified within two categories, namely བ་བེད་ཐ་དད་པ་ and བ་བེད་ཐ་མི་དད་པ་. It is a common mistake
+to equate these with transitive and intransitive verbs in English. Although in most cases བ་བེད་ཐ་དད་པ་ verbs are transitive and
+བ་བེད་ཐ་མི་དད་པ་ verbs are intransitive, the concepts behind the classifications differ.
+In English, the definition of a transitive verb is that it has a direct (accusative) object.
+In Tibetan, a verb is བ་བེད་ཐ་དད་པ་ (lit. separate) when the agent - who is endowed with volition - and the action are separate
+from each other.
+For example: ཟ་བ་, the verb “to eat”, is བ་བེད་ཐ་དད་པ་ because the agent and the object being eaten are two different entities. In
+the case of this verb, the definitions overlap because in English, likewise, the verb “to eat” is transitive:
+English: I eat an apple
+“I” is the subject; “apple” is the direct (accusative) object.
+Tibetan: ང་ཀུ་ཤུ་ཟ་གི་ཡོད།
+ང་ is the agent (བེད་པ་པོ་); ཀུ་ཤུ་ is the object (ཡུལ་)
+However, since there are a few interesting cases where the two definitions do not overlap, it is important to become familiar
+with the Tibetan concept of བ་བེད་ཐ་དད་པ་ and བ་བེད་ཐ་མི་དད་པ་. Understanding this is crucial to choosing the correct auxiliary.
+
+The verb “to get, obtain, receive” in English is transitive. However, its Tibetan translation རག་པ་ is བ་བེད་ཐ་མི་དད་པ་and the
+sentence structure and auxiliary are therefore different. According to the Tibetan understanding, the action of getting happens to
+the person and is therefore not separate. The verb “to get” is therefore བ་བེད་ཐ་མི་དད་པ་.
+For example:
+ང་
+ལ་
+me
+to
+I get work.
+
+ལས་ཀ་
+work
+
+རག་
+get
+
+གི་འདུག
+(pres. auxiliary)
+
+This nuance is clearly indicated by the usage of the particle ལ་. This particular particle shows that the action of “getting”
+happens to me. The “I” is the recipient of the action, or the place upon which the action happens.
+Another case where the classifications differ between English and Tibetan is with verbs such as ཤེས་པ་ “to know,” མཐོང་བ་ “to
+see,” and གོ་བ་ “to hear.” In English these are transitive verbs, but according to the Tibetan definition they are ཐ་མི་དད་པ།.
+As explained above, this is the case because from the Tibetan perspective, there is no agent endowed with volition involved.
+The “knowing,” “seeing” and “hearing” are the result of “watching,” “listening” and “studying” respectively.
+For example:
+ངས་
+by me
+I see the cat.
+
+ཞི་མི་དེ་
+the cat
+
+མཐོང་
+is
+
+གི་འདུག
+seen.
+
+19
+
+

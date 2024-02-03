@@ -1,0 +1,69 @@
+༄༅། ། ལོ་ཙཱ་བ་རིན་ཆེན་བཟང་པོའི་སྐད་སྒྱུར་སོབ་གྲྭའི་སོབ་ཚན། །
+LRZTP 9 Module 1 – Lesson 5, May-June 2023
+Present Tense, with Special Emphasis: ཐ་དད་པ་ Verb:
+བསན་པ་ལགས་ཀིས་
+ཤ་
+ཟ་
+Tenpa la + བེད་ས་
+meat
+eat
+Tenpa la does not eat meat.
+
+གི་ཡོད་མ་རེད།
+(present aux., Lesson 7)
+
+Or: As for Tenpa la, he does not eat meat.
+Additional Subtlety:
+The Concept of འཁྲུལ་གཞི་ Basis of Confusion
+As explained above, the function of the བེད་ས་ is to mark the agent of an action. In addition to the two rules given above,
+the བེད་ས་ must be applied in a case of འཁྲུལ་གཞི་– basis of confusion – meaning any sentence with potential confusion as
+to who is the agent and who is the object.
+For example:
+བོ་བཟང་
+གསད་
+ཀི་རེད།
+Lobsang
+kill
+(future auxiliary)
+Since there is no བེད་ས་, Lobsang could be either the agent of the verb or its object.
+Here, therefore, there are two possible translations:
+(Somebody) will kill Lobsang.
+Lobsang will kill (something).
+This is a འཁྲུལ་གཞི་, a basis of confusion.
+Therefore, in order to avoid confusion, even though the sentence is in the future tense, you need to add the བེད་ས་:
+བོ་བཟང་ གིས་
+གསད་
+ཀི་རེད།
+Lobsang བེད་ས་
+kill
+(future auxiliary)
+Lobsang will kill (something).
+Another classic case of འཁྲུལ་གཞི་is the following:
+ང་
+ཁེད་རང་ མཐོང་
+སོང་།
+I
+you see/s
+past auxiliary
+In this sentence it is not clear who sees whom.
+Although the sentence structure might suggest that “I” is the one who sees and “you” is the object being seen, there is
+no guarantee that this is the meaning.
+In Tibetan, therefore, it is indispensable to mark the agent with a བེད་ས་:
+ངས་
+ཁེད་རང་ མཐོང་
+སོང་།
+I + བེད་ས་
+you see/saw
+(past auxiliary)
+I saw you.
+A common mistake among Westerners is to think that མཐོང་བ་ needs a བེད་ས་ because it is a བ་བེད་ཐ་དད་པ་ verb (since
+the verb to see is transitive in English.)
+However, this is not the case. The verb མཐོང་བ་ is བ་བེད་ཐ་མི་དད་པ་ and the བེད་ས་ is needed in order to clarify who is the
+agent and who is the object.
+
+The Main and Subsidiary Agents བེད་པ་པོ་གཙོ་བོ་དང་བེད་པ་པོ་ཕལ་བ།
+Another peculiarity of Tibetan is that the བེད་ས་ is also sometimes used to mark the instrument or means by which the
+action of the verb is done. In such a sentence, there are two agents – the main agent བེད་པ་པོ་གཙོ་བོ་ and the subsidiary
+23
+
+

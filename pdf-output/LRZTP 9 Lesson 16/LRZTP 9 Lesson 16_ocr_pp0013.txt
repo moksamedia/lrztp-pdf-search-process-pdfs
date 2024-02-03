@@ -1,0 +1,80 @@
+wea| WEA རན་ཚན་བཟང་པའ་སྐད་རསྒྱར་སློབ་གྲའ་མློབ ཚན། ད
+are
+
+v
+
+=
+
+„༣
+
+v
+
+wa,
+
+v
+
+et
+
+v
+
+S27.
+
+v
+
+LRZTP 9 Module 2 — Lesson 10 — September 2023
+
+Reported speech
+As in English, the Tibetan language distinguishes between two types of reported speech —
+direct and indirect (or hybrid). For example:
+Direct: She told me: "You are a student."
+This sentence is direct reported speech, as the words are repeated in exactly the way they
+were spoken. In English this is signified by quotation marks.
+
+Indirect: She told me that I was a student.
+This is indirect reported speech, as the words are not repeated in exactly the way they were
+spoken. In English this is often signified by the use of the word “that”.
+In Tibetan, the distinction between direct and indirect reported speech only needs to be
+made in certain cases. If the speech concerns the speaker or the person addressed, a distinction
+is required. If the speech concerns a third person, no distinction is required. For example:
+She said: "Lobsang is a good person."
+She said that Lobsang was a good person.
+Since this speech (i.e. what she said) refers to a third person and is neither about the speaker nor
+about the person addressed, there is only one possible Tibetan translation for both of the above:
+༦༧
+
+..~-
+
+=
+
+rh
+
+NN
+
+༦༧
+
+མས་བླ་བཟང་མ་ཡག་པ་ཅག་རད་བར་ལབ་སང་།
+
+a)
+
+Direct reported speech
+The formula:
+Speaker
+
++ person addressed + &
+
++ quotation + Sx"
+
++ verb "to say"
+
+For example:
+
+ཨ་མས་ + YS
+
++ ལ་ + ང་ལམ་སེང་ཡོང་གི་ཡིན་ + ཟེར་ + གསུངས་སོང་།
+
+The mother said to the children: "I will come immediately."
+
+©2023 LRZTP
+13
+
+

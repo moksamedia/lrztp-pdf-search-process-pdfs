@@ -1,0 +1,34 @@
+༄༅། ། ལོ་ཙཱ་བ་རིན་ཆེན་བཟང་པོའི་སྐད་སྒྱུར་སོབ་གྲྭའི་སོབ་ཚན། །
+LRZTP 9 Module 3 – Lesson 19, October 2023
+d) The nominalizer ས།
+The nominalizer ས་ is used to build relative clauses concerning the indirect object in the Present or Past
+tense. For example:
+ངས་ཞི་མི་དེ་ལ་འོ་མ་སད་པ་ཡིན། ཞི་མི་དེ་སྙིང་རེ་པོ་འདུག
+I gave the cat some milk. That cat is cute.
+The ཞི་མི་ in the sentence is the indirect object and is therefore marked by a ལ་དོན་. In order to combine
+these two sentences, one needs the nominalizer ས་. The formula:
+Pronoun + dir.obj. + verb + ས་ + འི་+ noun (ind. obj.) + rest of the sentence
+ངས་
+འོ་མ་
+སད་ སའི་
+ཞི་མི་དེ་
+སྙིང་རེ་པོ་འདུག
+The cat (to whom) I gave milk to is cute.
+Examples:
+ངས་བུ་མོ་འདི་ལ་དགའ་པོ་བེད་ཀི་ཡོད། ཁོང་དགེ་རྒན་མ་རེད།
+I like this girl. She is not a teacher.
+ང་དགའ་པོ་བེད་སའི་བུ་མོ་དེ་དགེ་རྒན་མ་རེད།
+The girl I like is not a teacher.
+ཁེ་ས་ང་ཟ་ཁང་ཅིག་ལ་ཕིན་པ་ཡིན། ཟ་ཁང་དེའ་ི ཁ་ལག་ཞིམ་པོ་ཞེ་དྲགས་བྱུང་།
+Yesterday, I went to a restaurant. The food at the restaurant was so delicious.
+ཁེ་ས་ང་འགོ་སའི་ཟ་ཁང་དེའི་ཁ་ལག་ཞིམ་པོ་ཞེ་དྲགས་བྱུང་།
+The food was delicious at the restaurant where I went yesterday.
+ཁེད་རང་གིས་བུ་མོ་གཅིག་ལ་མེ་ཏོག་ཅིག་སད་སོང་། བུ་མོ་དེ་སུ་རེད།
+You gave a flower to one girl. Who is that girl?
+ཁེད་རང་གིས་མེ་ཏོག་སད་སའི་བུ་མོ་དེ་སུ་རེད།
+Who is the girl you gave the flower to?
+©2023 LRZTP
+
+14
+
+

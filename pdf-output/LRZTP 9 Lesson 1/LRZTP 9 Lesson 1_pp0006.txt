@@ -1,0 +1,29 @@
+ཉེར་མཁློའ་ི ཚིག་གྲུབ།
+Phrase book
+འཚམས་འདི། Greeting
+བཀྲ་ཤིས་བདེ་ལེགས། – Hi! Hello!
+མ་མཇལ་ཡུན་རིང་། – A long time since seeing you! (H)
+མཚན། Name
+ཁེད་རང་གི་མཚན་ལ་ག་རེ་ཞུ་གི་ཡློད། – What is your name? (H)
+ངའི་མིང་ (ལ་) ་་་་་ཟེར་གི་ཡློད། – My name is …
+ཁེད་རང་གི་མིང་ལ་ག་རེ་ཟེར་གི་ཡློད། – What is your name?
+ངའི་མིང་ (ལ་) ་་་་་ཟེར་གི་ཡློད། – My name is …
+ཕ་ཡུལ། Homeland
+ཁེད་རང་ལུང་པ་ག་ནས་ཡིན། – Where are you from?
+ང་་་་་་་་་་་་་་་་་་་ནས་ཡིན། – I’m from …
+ཁེད་རང་ཕ་ཡུལ་ག་ནས་ཡིན། – Where are you from?
+སྐུ་གཟུགས་བདེ་ཐང་། How are you?
+ཁེད་རང་སྐུ་གཟུགས་བདེ་པློ་ཡིན་པས། – How are you? (H)
+ང་བདེ་པློ་ཡིན། ཨ་ནི་ཁེད་རང་། – I'm fine, and you?
+ང་བདེ་པློ་བདེ་རྐྱང་ཡིན། – I’m perfectly fine.
+ག་པར་འགློ་ག What’s up?
+ཁེད་རང་ག་པར་ཕེབས་ག – Where are you going? (H)
+ང་འཛིན་གྲྭ་ལ་འགློ་གི་ཡིན། – I’m going to class.
+ཁེད་རང་ག་པར་འགློ་ག – Where are you going?
+མཇལ་ཡློང་། Bye!
+ང་ཁེད་རང་མཇལ་ཙང་དགའ་པློ་བྱུང་། – It was nice to meet you! (H)
+རེས་ལ་མཇལ་ཡློང་། – See you later! (H)
+
+࿉6࿉
+
+

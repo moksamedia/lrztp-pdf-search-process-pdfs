@@ -1,0 +1,32 @@
+Temporal connectives
+This lesson introduces the temporal connectives of simultaneity: དུས་, སབས་ལ་, ཞློར་ལ་, རིང་ལ་, ཤུལ་
+རིང་ཀ་ and གིན་་་་གིན།.
+a) དུས།, ཤུལ་རིང་ཀ། and གིན་་་་གིན།
+The above connectives always follow after a Present Tense verb. Their translation into English may
+be quite flexible, but the different meanings of the Tibetan words should be preserved.
+དུས།
+The connective དུས་ means "time", so it can be translated as "when", "at the time", etc. The
+sentence can be expressed in the past, present or future tenses and the second verb can also be
+expressed in any tense, with any person or in any of the modes. For example:
+དེ་རིང་ཞློགས་གས་ཆར་པ་འབབ་དུས་ང་ནང་ལ་བསྡད་པ་ཡིན།
+This morning when it was raining, I stayed at home.
+ཁ་སང་ང་ཚོ་འཛིན་གྲྭ་ལ་ཡློད་དུས་གངས་མང་པློ་བབས་སློང་།
+While we were in class yesterday, there was a heavy snowfall.
+ཁ་སིང་ངའི་ཨ་མས་ཁློམ་ལ་ཉློ་ཆ་རྒྱག་དུས་ཁློང་ལ་གློགས་མློ་རིང་པ་ཅིག་ཐུག་སློང་།
+When my mother was shopping the other day at the market, she met an old friend.
+བློ་བཟང་གཟུགས་པློ་འཁྲུད་དུས་གློག་ཕིན་སློང་།
+While Lobsang was having a shower, the electricity went off.
+According to some Tibetans...
+Although sentences with དུས་ often relate to the past, no བེད་སྒྲ་ (agentive particle) is required to
+mark the agent of the verb that precedes the དུས་. For example:
+ཁེ་ས་ང་གཞས་བཏང་བསྡད་དུས་ངའི་ཨ་མ་ལགས་ནང་ལ་ཕེབས་སློང་།
+Yesterday, while I was singing a song, my dear mother came home.
+However, if I just said “Yesterday I sang a song,” then a བེད་སྒྲ་ would be required. For
+example:
+ཁེ་ས་ངས་གཞས་བཏང་པ་ཡིན།
+Yesterday I sang a song.
+The reason for this usage is that in the first example the main topic is the time of singing the
+song, rather than the action itself.
+10
+
+

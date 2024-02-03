@@ -1,0 +1,46 @@
+b) Volition
+Whenever you use a verb and make a sentence about yourself you have to distinguish whether you do
+the action intentionally or accidentally:
+For Example:
+དེ་རིང་ང་མགོ་ན་གི་འདུག "To have a headache" is not volitional and this is expressed by the auxiliary གི་
+འདུག (གཞན་) = Today, I have a headache.
+སང་ཉིན་ལྷ་ཁང་ལ་འགྲོ་གི་ཡིན། "To go" is intentional - this is expressed by the auxiliary གི་ཡིན་ (བདག) =
+Tomorrow I'll go to the temple.
+c) ཐ་དད་པ་ ཐ་མི་དད་པ་ + བེད་སྒྲ་ Agentive Particle
+All verbs are either ཐ་དད་པ་ or ཐ་མི་དད་པ་ - a concept similar to "transitive" and "intransitive". Verbs
+of motion (འགྲོ་ to go, ཡོང་ to come, ཕེབས་ to go, come (H), བསྡད་ to stay, live, sit) are ཐ་མི་དད་པ་ and in
+Tibetan, verbs of feelings (for example: མགོ་ན་བ་ to have a headache, གྲོད་ཁོག་ལྟོགས་པ་ to feel hungry
+འཁག་པ་ to feel cold etc.) also.
+ཐ་དད་པ་ verbs require the use of a བེད་སྒྲ་ (Agentive particle) in the past.
+You need to be able to identify the བེད་སྒྲ་ in a given past tense sentence and then use it in the answer.
+For example:
+If I write: ཁེ་ས་ཁེད་རང་གིས་རང་སོང་བིས་པ་ཡིན་པས།
+Did you write (your) homework yesterday?
+You should reply something along the lines of: ཡིན་དང་ཡིན། ངས་རང་སོང་ཏོག་ཙམ་བིས་པ་ཡིན།
+Of course! I wrote a little bit of homework.
+or, - honestly ལགས་མེད། ངས་རང་སོང་བིས་མེད། No, I did not write (my) homework.
+As you might remember, the བེད་སྒྲ་ consists of the various འབེལ་སྒྲ་ (connective particles) with a ས་
+added. It undergoes also the same rule about the རེས་འཇུག (suffixes):
+རེས་འཇུག་
+བེད་སྒྲ་
+དཔེ་
+Suffix
+Agentive particle Example:
+ག་ ང་
+གིས་
+ཁེད་རང་གིས་མོག་མོག་བཟོས་པ་ཡིན་པས། Did you make momos?
+བ་ ས་ ད་
+ཀིས་
+བཀྲ་ཤིས་ཀིས་གཞས་བཏང་སོང་། Tashi sang a song.
+ན་ མ་ ར་ ལ་
+གིས་
+རྣམ་གྲོལ་གིས་གསོལ་ཇ་མཆོད་པ་རེད། Namdrol had a tea (H.)
+འ་ or no suffix
+ས་ ཡིས་
+ངས་ཉོ་ཆ་མང་པོ་བརྒྱབ་པ་ཡིན། I did a lot of shopping.
+
+©2023 LRZTP
+
+page 9
+
+

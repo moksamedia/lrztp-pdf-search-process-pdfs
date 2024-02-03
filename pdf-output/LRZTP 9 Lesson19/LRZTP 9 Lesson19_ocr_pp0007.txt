@@ -1,0 +1,90 @@
+༄༅།།| VET རན་ཚན་བཟང་པའ་སྐད་རསྒྱར་སློབ་གྲའ་མྲོབ ཚན། |
+=
+
+v
+
+==
+
+„༣
+
+v
+
+wD,
+
+v
+
+Nt
+
+v
+
+SN
+
+Ne,
+
+v
+
+LRZTP 9 Module 3 — Lesson 19, October 2023
+
+Relative clauses
+Relative clauses are phrases (within a sentence) which in English contain terms such as "which", "what",
+"who", "whom", “that” etc. They can be considered a combination of two short sentences. For example:
+
+I bought a book. It is interesting.
+
+ངས་དེབ་ཅེག་ཏོས་པ་ཡིན།
+wp
+
+=
+
+ms,
+
+v
+
+དེ་སྟན་པོ་འདུག
+
+wy
+
+a
+
+Ye
+
+To say the same thing in a single sentence, the two shorter sentences are combined into:
+
+ངས་ཁོས་པའི་དེབ་དེ་སྟན་པོ་འདུག
+The book that I bought is interesting.
+The phrase “‘that I bought” is an example of a relative clause. We make relative clauses whenever we
+wish to specify a further piece of information
+
+about something.
+
+In the above
+
+example,
+
+you are
+
+specifying something about the book you bought.
+The structure for relative clauses in Tibetan is different than in English. In English, the sentence
+begins with the noun (“The book that...””). In Tibetan, the noun (“the book”) comes a/fer the verb and
+its nominalizer: ངས་ཉོས་པའི་དེབ། Occasionally this word order is changed around, and people say: Fay
+དེབ་ཉོས་པ་དེ་ In order to make relative clauses in Tibetan, the following nominalizers (introduced in
+Lesson 18) are used: A
+
+༨༡ འཛོ 3114 གཿ
+
+a) Relative clauses with the nominalizer མཁན་
+Formula:
+Object (direct or indirect) + verb + nominalizer (མཁན་) + འབྲེལ་སྒྲ་ + noun
+ཁ་ལག་
+nes
+མཁན་
+གྱི་
+རོགས་པ་
+The friend who makes (the) food...
+Be aware that, in colloquial, the འབྲེལ་སྒྲ་ is often dropped:
+
+ཁ་ལག་བཟོ་མཁན་རོགས་པ།
+
+©2023 LRZTP
+
+
