@@ -1,0 +1,48 @@
+in the lexicon can contain multiple senses as well as associated collocated forms.
+The structure of the Verb Lexicon part of the book is as follows. The primary
+forms are first given (separated into homographs determined by syntactic class
+
+and subdivided into senses determined by semantic range) with associated
+equivalents and examples. These are followed by auxiliary constructions and,
+
+finally, by collocated forms. Regarding the collocated forms, in addition to
+verbal collocations formed with the standard set of Sanskritic adverbs, object-
+
+dominated verbal collocations and translation divergences are also provided.
+The Verb Tense Index part of the book provides an index to all base verb
+tenses, referencing the present-tense form to be found alphabetically in the
+
+Verb Lexicon section.
+Citations to Sanskrit equivalents and sources of example sentences are
+listed in a separate section just prior to the bibliography.
+ACKNOWLEDGMENTS
+
+As with the first edition of the dictionary, there were many who contributed
+to the production of this second edition. First and foremost was Craig Preston
+
+who, together with his students, offered very helpful feedback in the form of
+numerous discussions concerning the scope and requisite grammar of obscure
+verbs. Likewise, special thanks to Rebecca French for sharing her insights and
+experience with Tibetan legal texts and their syntax. Thanks to Jason Dunbar
+and Gordon Aston who provided me with numerous electronic texts, enabling
+me to broaden my search of Tibetan literature for paradigmatic sentences for
+verbs. Thanks to Nathan Hill, whose sophomoric assumptions about the first
+edition encouraged me to be more precise in my description of Tibetan verbs.*
+
+Similarly, thanks also to Bettina Zeissler, whose dissertation on Tibetan verbs—
+by its demonstration of the levels of near functional illiteracy in the Tibetan
+language that persist in some academic quarters—also prompted me to add
+additional explanatory sections on Tibetan grammar to the introduction to
+this book in order to clarify many points of grammar that some clearly find
+difficult to comprehend.° Of course, thanks once again to Sidney Piburn and
+the staff at Snow Lion, and now at Shambhala, Nikko Odiseos, Casey Kemp,
+
+Lora Zorian, Liz Shaw, and Alex Catanese for their continued support, feedback, and guidance in bringing this second edition to print.
+Finally, I should state that although this second edition has now been
+
+published, the research underlying A Tibetan Verb Lexicon remains a workin-progress, and I continue to work on the linguistic database from which it
+
+is derived. It is hoped that despite whatever deficiencies there may be in this
+xi
+
+

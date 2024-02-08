@@ -1,0 +1,55 @@
+Here, the categorical divergence arises as a result of the domain of the vocabulary. Although the Tibetan word “ (“path”) does convey both its literal and
+metaphorical meaning in most contexts, in some highly technical Buddhist lit-
+
+erature, ལམ་ can refer to a state of mind. Hence, in the example above, the technical usage of the term as employed forces a mutual shift in the verb-predicate
+equivalents.
+WHERE
+
+THIS
+
+WILSON’S
+
+BOOK
+
+DEPARTS
+
+FROM
+
+PRESENTATION
+
+As with the grammatical introduction in the first edition, I do not consider the
+presentation of aspects of Tibetan grammar in this book to contradict or supersede Joe Wilson's text. Indeed, I envision it as complementary. However, during
+the course of teaching Wilson's presentation of Tibetan grammar in the classroom and implementing it in a computational environment, certain formulaic
+additions and supplementary distinctions were perceived to be advantageous.
+From that perspective, they are included here.
+Chief among these additions is an expanded discussion of verbal collocations (referred to as “phrasal verbs” by Wilson), translation divergences (drawing on the work of Dorr), and a fine-grained classification of auxiliary verbs
+and semimodal constructions. Other distinctions made include the explicit
+recognition of various distinct syntactic patterns and particles such as the loca-
+
+tive-absolute construction, certain verb participles, and additional differentiations in labeling syntactic particles. All of these are explained in the sections
+
+that follow.
+VERBS,
+
+COLLOCATIONS,
+
+AND
+
+ASSOCIATED
+
+CONCEPTS
+
+Classification of Tibetan Verbs
+A verb is an argument-taking lexical item that denotes an action, state, or process involving one or more participants. To know the meaning of a verb is to
+know both the number and type of arguments it requires and the semantic
+relationship each argument has with the verb. The premise of this lexicon, Joe
+Wilson's presentation of Tibetan grammar, and other linguistic approaches’ is
+that this set of properties built around the predicate-argument structure (or
+subcategorization frame) of a verb yields a classificatory scheme from which
+
+someone may infer the basic structure of a sentence based primarily on the
+terminal verb and the number and type of accompanying arguments.
+Historically, Tibetan discussions of grammar date back to the grammatical
+4
+
+

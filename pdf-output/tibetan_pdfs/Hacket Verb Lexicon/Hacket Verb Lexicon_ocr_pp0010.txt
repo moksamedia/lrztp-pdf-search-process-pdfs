@@ -1,0 +1,50 @@
+focus of this book will be verbs and verbal forms in relation to their requi-
+
+site syntax and, secondarily, their role in and implications for establishing
+boundary conditions in the task of semantic disambiguation.
+As with most bilingual dictionaries, the purpose of this book is for it to be
+used as a lexical aid in support of the activity of translation. This has been the
+guiding principle in the selection of entries and example sentences: demon-
+
+strating the use of the verb or verbal construction in context and specifically
+in “real world” usage.
+In general, there are remarkable degrees of alignment between the Tibetan
+and English languages. The vast majority of Tibetan verbs and syntactic
+structures can be mapped directly to their English-language counterparts.
+Nonetheless, divergences between the expression of some concepts in both
+
+languages do occur.’
+Consequently, one can divide translation differences between two languages
+into two categories: translation divergences, in which the same information is
+
+conveyed in the source and target texts but the structures of the sentences are different, and translation mismatches, in which the information that is conveyed is
+different in the source and target languages. Focusing on syntax in this context, a
+
+sentence and its translation can diverge in a number of ways.’
+Some examples of translation divergences between Tibetan and English are
+as follows. For example, some Tibetan verbs—such
+
+as 4\"|*—necessitate the
+
+promotion of an English predicate adjective (in this case, “difficult”). Indeed,
+many Tibetan verbs that express the qualities of their grammatical subjects are
+
+realized as predicate adjectives in English.
+Another type of translation divergence commonly seen is structural, in
+which, for example, the verbal object in one language would be realized as a
+noun phrase but in the other as a prepositional phrase. For example, with the
+verb “ठग, the qualifier in Tibetan occurs in the second case (objective), but in
+
+English it would be realized as an adverbial phrase with a preposition:
+
+རྐུན་མ་སྒོར་ཕྱུང་།
+Throwing a robber out the door.
+(Literally:) Throwing a robber to the door.
+Likewise, a number of these divergences occur with delexicalized verbs. The
+construction XBA9°'F9" or ¥་ཀྱི་དབང་དུ་གྱུར་ is commonly seen. For example,
+མཚན་ཉིད་དེ་རྣམས་མདོ་སྡེ་པའི་དབང་དུ་བྱས།
+
+These definitions are made from the viewpoint of the Sutra
+school.
+
+

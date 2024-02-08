@@ -1,0 +1,54 @@
+with “9” For example, in Tsongkhapa’s Essence of Eloquence, there is a passage
+illustrating these last two constructions with both utilizing different tenses of
+the verb རྫོད་.. It reads:
+
+རོག་པ་ལ་རྗོད་བྱེད་སྒྲ་སྤྱི་དང་བརྗོད་བྱ་དོན་སྤྱི་སྣང་བ་ནི་ཀུན་བརྟགས་ཀྱི་མིག
+Appearances to a conceptual consciousness of sound-gener-
+
+alities—which are the means of verbalization—and meaninggeneralities—which are the objects of verbalization—l[are] the
+imputational eye.
+In the above passage, both of these forms are clearly nouns. However, morphologically they are similar to the optative and causative verbal constructions,
+especially when the latter occurs in verse. Consequently, careful attention must
+be exercised when they are encountered.
+GERUNDS
+
+AND
+
+OTHER
+
+CONTINUATIVES
+
+Similar to its function in Sanskrit—in which it is used to indicate an action performed by the same subject/agent of the main verb but temporally prior to the
+
+activity of that main verb—the gerund construction in Tibetan is formed with
+the non-case use of the fifth-case (the “originative” or “ablative” case) particles
+to form a gerund or gerund phrase (also called an “ablative absolute”). It is one
+of the most common syntactic structures for creating complex sentences. Such
+phrases are typically translated into English by the use of the expression “hav-
+
+ing been/done X ..”
+‘The form of such phrases appears as “verb + ནས་” and thus is often easy to
+recognize. It is also worth noting that the other fifth-case particle (ལས་) can
+also be used to form a gerund, although such is typically found only in “Old
+
+Tibetan” (pre-tenth century) writings and translations as well as in literature
+that attempts to mimic it (i.e., intentional anachronisms). In addition, the use
+
+of “" as a gerund marker carries a very specific connotation: that of thematic
+disjunction—that is, its use indicates that what follows is somehow unexpected
+or different in some aspect from the preceding activity. It can be translated as
+“although having been ..”
+
+Other than gerunds, the other common
+
+indicator of continuation in
+
+narrative text is the use of one of the rhetorical continuative particles: སྟེ', ཏེ་,
+
+or 4’. A common usage of these particles is in the formation of a syllogism, in
+which they remain untranslated; in other instances where they serve as sentence continuatives (as opposed to functioning as apposition markers in sastric
+
+commentary), they are translated in a manner similar to gerunds.
+17
+
+

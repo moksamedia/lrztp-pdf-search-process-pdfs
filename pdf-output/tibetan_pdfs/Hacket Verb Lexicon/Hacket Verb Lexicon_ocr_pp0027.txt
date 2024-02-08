@@ -1,0 +1,49 @@
+The other form of future participles is the gerundive. This is formed by
+the nominalization of the optative construction (“one should do X”). Such instances take the form of verb + པར་བྱ་བ་ but are commonly abbreviated as verb +
+2, “that which is to be done” or “object of verbal activity”
+
+CLAUSE-CONNECTIVE
+
+CONSTRUCTIONS
+
+One of the most common syntactic structures for creating complex sentences
+is the use of the sixth case (the “connective” or “genitive” case) to form a clauseconnective construction. In simplest terms, a clause-connective construction is
+
+a way of modifying a noun adjectivally with a verbal phrase or clause. Wilson
+provides a useful categorization of clause-connective expressions by identify-
+
+ing the role that the noun that follows them would play were it to appear in
+the clause that precedes it in a complete sentence. Wilson thus identified four
+basic types: subject/agent, object, complement, and qualifier. An example of a
+clause connective to an agent (and the fully formed sentence demonstrating
+that identification) would be:
+ཆོས་བསྟན་པའི་སངས་རྒྱས། => སངས་རྒྱས་ཀྱིས་ཆོས་བསྟན།
+
+“The Buddha, who taught the Dharma” =>
+“The Buddha taught the Dharma”
+and so on.”
+
+AUXILIARY
+
+CONSTRUCTIONS
+
+One of the least understood grammatical constructions in Tibetan is the set
+of auxiliary constructions. The primary reason for this would appear to be the
+contextual nature of their specific implications that, to my knowledge, have yet
+
+to be fully and formally described. What is presented below is a first attempt
+at categorizing and describing the specific contexts and uses of the different
+auxiliary verb constructions. It should be taken as an attempt at a taxonomy of
+auxiliary constructions.
+
+Tibetan versus Sanskrit uses of Auxiliary Verbs
+One of the primary distinctions that is necessary to recognize is the difference
+in use of auxiliary constructions between native compositions and translated
+Sanskrit. Sanskrit verbs, when conjugated, typically take one of two types of
+endings referred to as active-voice (parasmaipada) terminations and middle-
+
+voice (dtmanepada) terminations. Typically, Sanskrit verbs take one or the
+other termination, while some can take either. The point of interest here is that
+19
+
+

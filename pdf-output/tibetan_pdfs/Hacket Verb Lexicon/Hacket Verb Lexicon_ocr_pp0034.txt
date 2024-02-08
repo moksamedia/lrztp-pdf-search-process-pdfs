@@ -1,0 +1,109 @@
+Construction
+
+Part of Speech
+
+Verb + པ་ / བ་
+
+participle
+
+Verb + པ་པོ་ / བ་པ་
+
+agent
+
+Verb+9V
+
+gerundive
+
+Verb+ པར་བྱེད་
+
+causative / emphatic / reflexive causative/
+Sanskrit active voice
+
+Verb + SV AGN
+
+transformation / perfective / Sanskrit middle
+voice / emphatic future
+
+Verb + 55
+
+imperfective / past perfect / subjunctive
+
+Verb + པར་བྱ་
+
+optative / future causative / future
+
+Verb + པར་བྱས་
+
+past causative (emphatic)
+
+Verb (pr.) + ཅིག་
+Verb (fut.) + ཅིག་
+
+imperative
+passive imperative
+
+Verb (imp.) + Bay / Say /ཞིག་ /མཛོད་
+
+precative
+
+Verb + ཟིན་ / ཟད་ / པར་བྱས་
+
+perfect
+
+Verb + བྱེད་ཞིག་
+
+precative causative
+
+Verb + གྱིས་ཞིག་ / བྱེད་ཅིག་
+
+exhortative
+
+Verb (pr.) + གྱུར་ཅིག་
+
+strong precative / performative
+
+Verb (pr.) + མ་གྱུར་
+
+weak precative
+
+Verb + དགོས
+
+/ མཆི་ / འཚལ་ / བྱ་དགོས་
+
+deontic
+
+Verb + འདུག་ / གྲུགས་ / སྣང་
+
+epistemic
+
+Verb + སྨོན་
+
+desiderative
+
+Verb + SN"
+
+inceptive
+
+Verb + ཞུ་
+
+jussive
+
+Verb + AA
+
+preparative
+
+Verb + གྲུང་
+
+indirect interrogative
+
+Verb + པར་འདུག་ / གནས་ / བཞུགས་ /
+
+continuative
+
+SAG:
+
+Table 3. Summary of Tibetan Verbal Suffixes
+
+26
+
+

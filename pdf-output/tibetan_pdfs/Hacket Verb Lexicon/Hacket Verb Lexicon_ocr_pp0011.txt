@@ -1,0 +1,46 @@
+In this example, the sentence is comprised of the generic action verb BF,
+
+“to do” or “to make,’ in a passive construction along with two additional
+elements: a nominative 01)]66[, མཚན་ཤིད་དེ་རྣམས་ (functioning as the passive
+“subject” in this construction), and an adverbial qualifier, མདོ་སྡེ་པའི་དབང་དུ་.
+Depending on context, the base portion of the [11738€ ད་བང་དུ་ connotes the
+
+meaning of “through the force of
+
+. ? “from the perspective of ...) or “to be/
+
+come under the influence of ..” and takes a modifier prefixed to it with a
+genitive connective particle (Wilson case 6.3). When mapped into English,
+however, the adverbial phrase translates into an ablative (in this example),
+
+instrumental, or prepositional phrase.
+Another type of divergence seen in Tibetan is conflational. Conflation oc-
+
+curs when certain semantically necessary arguments of a given action are incorporated into a single word in a different language. In Dorr’s example,’ the
+single English word stab equates to the two Spanish words dar (give) and pufialadas (knife-wounds); that is, the two Spanish words are conflated into one
+
+word in English. Algorithmically, a conflational divergence is characterized by
+the suppression of a structural element (or conversely, the generation of one)
+during translation.
+In Tibetan-English contexts, this type of divergence is readily seen in domains where one of the two languages possesses a paucity of innate terminology resulting in phrasal neologisms being constructed. In the literature of Tibet,
+this is reflected most clearly in Sanskritic compounds and in the technical vocabulary of states of mind. A simple example between Tibetan and English is
+the verbal collocation ཡིད་ལ་གོམས་, often translated as “to meditate” although a
+
+literal rendering would be “to familiarize within the mind”
+Yet another divergence type is categorical. In such instances, a predicate
+could be adjectival in one language—hungry in English—but nominal in the
+other (hunger in German). In this divergence category, both the verb and
+
+predicate mutually inform each other and both undergo transformation. In a
+Tibetan-English context, there are several examples of structural divergences.
+For example, an instance where a verbal object is realized as a noun phrase in
+Tibetan but prepositionally in English can be seen in the example below with
+
+the verb སོང:
+
+Without having previously been [on] the Lesser Vehicle path ...
+(Literally:) Without having previously become a Lesser Vehicle
+
+path [consciousness] ...
+
+

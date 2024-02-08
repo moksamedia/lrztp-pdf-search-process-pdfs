@@ -1,0 +1,48 @@
+LAS = Nanjio, Bunko. Lankavatara-siitra. Kyoto: Otani University Press, 1923.
+LCh = Chandra, Lokesh. Tibetan-Sanskrit Dictionary. New Delhi: Sharada Rani, 1987.
+LNa = Lindtner, Christian. Nagarjuniana. Copenhagen: Akademisk Forlag, 1982.
+LV = Vaidya, P. L. Lalitavistara. Darbhanga: The Mithila Institute, 1958.
+LZ = Zahler, Leah Judith. “The Concentrations and Formless Absorptions in Mahayana Buddhism.’ PhD diss. University of Virginia, 1994.
+M150 = Bailey, D. R. Shackleton. The Satapancasatka of Matrceta. Cambridge, 1951.
+MK = Vaidya, P. L. Manjusrimilakalpa. Darbhanga: Mithila Institute, 1925.
+MMK = de la Vallée Poussin, Louis. Milamadhyamakarikas (madhyamika-sitras) de
+Nagarjuna avec la Prasannapada de Candrakirti. Osnabriick: Biblio Verlag, 1970.
+MHV = Mahavyutpatti (Bye brag tu rtogs par byed pa). D 4346; SAKAKI Rydézaburé.
+Bonzokan-wa Shiyaku Taiko Honyaku Myogi Taishi. Tokyo: Suzuki Gakujutsu
+Zaidan, 1973.
+MND = Vinita, Bhiksuni. “Mafijusrinirdesanamamahayanasutra.” In A Unique Collection of Twenty Sutras in a Sanskrit Manuscript from the Potala: Editions and Translations, vol. 2, 521-543. Beijing & Vienna: China Tibetology Publishing House,
+Austrian Academy of Sciences, 2010.
+MNP = Vinita, Bhiksuni. “Mafijusripariprechamahdydanasutra.” In A Unique Collection
+of Twenty Sutras in a Sanskrit Manuscript from the Potala: Editions and Translations, vol. 2, 703-769. Beijing & Vienna: China Tibetology Publishing House, Austrian Academy of Sciences, 2010.
+
+MNS = Davidson, Ronald. “The Litany of Names of Majijusri” Mélanges Chinois et
+Bouddhiques 20 (1981): 1-69.
+
+MPP = Vinita, Bhiksuni. “Maitreyapariprcchamahdayanasutra.” In A Unique Collection
+of Twenty Sutras in a Sanskrit Manuscript from the Potala: Editions and Translations, vol. 2, 545-555. Beijing & Vienna: China Tibetology Publishing House, Austrian Academy of Sciences, 2010.
+
+MSA = NAGAO Gadjin. Index to the Mahaydanasutralamkara. Tokyo: Nippon Gakujutsu Shinko-kai, 1958.
+
+MSA-B = Bagchi, 5. Mahaydana-sitralankdra of Asanga. Darbhanga, Bihar, India: Mithila Institute, 1970
+MSA-V = Levi, Sylvain. Mahayana-sitralamkdra: Exposé de la Doctrine du Grand Véhicule. Paris: Librairie Honoré Champion, 1907.
+
+MT = Rangaswami Iyengar, H. R. Tarkabhdsa and Vadasthana of Moksdkaragupta and
+Jitaripdda. Mysore, 1952.
+MV = NAGAO Gadjin. Madhyanta-vibhaga-bhasya. Tokyo: Suzuki Research Foundation, 1961.
+
+_MV-S = YAMAGUCHI
+
+Susumu. Sthiramati, Madhyanta-vibhanga-tika—Exposition
+
+systématique du Yogacara-vijnaptivada. Nagoya: Hajinkaku, 1934; repr. Tokyo: Su-
+
+zuki Research Foundation, 1966.
+N = NAKAMURA Zuiryt. Bon-Kan taisho Kukyo ichijo héshoron kenkyit (A Study
+of Ratnagotravibhaga-mahdayanottara-tantra-sastra Based on a Comparison and
+Contrast between the Sanskrit Original and the Chinese Translations). 10096:
+Sankibo Busshorin, Showa 36 [1961].
+
+NBD = Obermiller, Eugene. Indices verborum: Sanscrit-Tibetan and Tibetan-Sanscrit
+488
+
+

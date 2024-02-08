@@ -1,0 +1,45 @@
+at so-called classical Tibetan literature—defined in geopolitical terms as pre1959 compositions—although in actuality this is so-defined as to exclude
+Sinitic neologisms arising as a result of the Chinese Communist governance
+of Tibet and the intentional distortion of the language within the country
+that has resulted. Similarly, slang and Nepali- and Hindi-derived neologisms
+coming from the exile communities in India have also not been included.
+STRUCTURE
+
+AND
+
+ORGANIZATION
+
+The organization of this book is similar to that of the first edition, though not
+exactly; what follows is an introduction and overview of the subsequent sections and usage instructions for the lexical resources provided.
+The first part of this book provides an introduction to the language model
+for Tibetan verbs that underlies this lexicon. Although different language
+models and descriptive vocabulary have been proposed and used by various
+scholars over the years, the system used here follows Joe Wilson's presentation
+with my own additions and expansions.' Some of these modifications are the
+
+result of my own research in Tibetan and Sanskrit comparative linguistics as
+well as techniques of Natural Language Processing (NLP) for Tibetan. Others derive from a larger pedagogical agenda, bringing Tibetan in-line with
+normative language instruction in North America, which typically grounds
+such instruction in Latinate categories.* Incorporated into this discussion is
+an overview of terms and classical categories in Sanskrit and English grammar
+and guides to their applicability to Tibetan.
+The core of the book is the Verb Lexicon. It is sorted in Tibetan alphabetical order by the present tense of the verb, with past, future, and imperative
+
+forms following (with alternate spellings indicated parenthetically). Although
+traditional Tibetan verb ordering is future, present, and past, due to morphological ambiguity in the future-tense form of some verbs, the present tense
+was chosen as the principal tense for ordering the lexicon.
+
+With regard to the content of the entries themselves, the initial source verb
+lists were several Tibetan lexical sources;’ the verification of their morphological
+variations over tense, the classifications, the translations, and the derivations of
+
+syntactic information relies heavily on attested usage, particularly in reference
+
+to parallel Sanskrit texts but also, to no small extent, to later Tibetan indigenous
+compositions. Because pre-1959 Tibet was home to a highly integrated worldview, with a wide range of literature on various subjects—politics, law, poetics,
+
+medicine, art, and so on—all embued with Buddhist sensibilities, a concerted
+effort was made to sample those domains of literature as well. As a result, entries
+x
+
+

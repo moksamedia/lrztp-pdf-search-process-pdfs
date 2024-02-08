@@ -1,0 +1,51 @@
+verb, the “base” verb 35“ is not—being a Class V verb taking its object in the
+nominative case. Consequently, we must conclude that གཅེས་པར་ཟུངས་ is not a
+verbal collocation but rather another instance of a verb, in this case 36" taking
+
+a verb in the infinitive as a complement གཅེས་པར་, that verb having its own agent
+and object phrases, པཌ་ཆེན་ཉིད་ and བརྡའ་ཆད་འདི་རྣམས་.
+Far more challenging examples are seen in canonical works translated from
+Sanskrit. For example, there is a passage in the Eight-Thousand-Line Perfection
+of Wisdom
+
+Sitra that reads བཅོམ་ཞིང་ཕྱིར་ཕྱོགས་པར་མི་འགྱུར།.
+
+What is not immedi-
+
+ately obvious is that the entire passage is a verb phrase; it is the Tibetan translation of the Sanskrit na bhagnaprsthibhavati (“to turn away disturbed”; “to be
+dejected”). In this case, the translators broke apart the original Sanskrit verb
+into the discrete lexemes bhagna (བཅོམ་) + prsthi (ཕྱིར་ཕྱོགས་) and na ... bhavati
+
+(མི་འགྱུར་). As can be seen, the presence of a conjunctive particle (ཞིང་) does not
+necessarily indicate a conjunction of two separate verbs. Rather, it is being used
+
+simply to indicate that the resulting Tibetan words are to be taken together as
+a whole—the phrasal equivalent of the underlying Sanskrit.
+Just as tha dad verbs can appear in active and passive constructions, so too
+can verbal collocations made with those same verbs. For example, the Class V
+agentive-nominative verb འབྱིན་ (pt. 3%; f. དབྱུང་) can be translated as “to take
+
+out” or “to send out” and has several collocations. A collocation used in a passive sentence can be seen with སྐད་སྙན་འབྱིན་:
+
+མཐིང་རིལ་བུར་པ་དག་དང་ངད་པ་དང་།བཞད་སོགས་སྐད་རྷན་འབྱིན།
+Blue-winged ducks, swans, and geese cry out.
+Similarly, this can be seen with འྲ་བུ་འབྱིན་, here taking the adverb ཏོ་ག་པར་;
+བྱང་ཆུབ་སེམས་ཀྱི་ལྔོན་ཤིང་རྟག་པར་ཡང་། འྲབས་བུ་འབྱིན་པ།
+
+The tree of the mind of enlightenment perpetually bears fruit.
+A number of other collocations in active-voice sentences—such as ར་བ་ཏུ་འབྱིན་ (“to
+give ordination”) or སུན་འབྱིན་ (“to disbelieve” or “to corrupt”)—can also be seen.
+
+Verbal collocations blur the issue of what constitutes a discrete unit of
+meaning, or “morpheme” in Tibetan. In languages like English, a differentiation is made between free and bound morphemes—that is, between units of
+meaning that can stand alone as words and those which function solely as con-
+
+stituent parts. In Tibetan, certain elements of the language fall clearly into these
+two categories, though some elements appear to function in different contexts
+
+as either. In unsegmented languages like Tibetan, this latter group complicates
+10
+
+|
+
+

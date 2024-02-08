@@ -1,5 +1,8 @@
 node_modules
 *_ocr.pdf
+*_ocr_p*.pdf
+
+**/Hacket Verb Lexicon.pdf
 
 HELP.md
 target/

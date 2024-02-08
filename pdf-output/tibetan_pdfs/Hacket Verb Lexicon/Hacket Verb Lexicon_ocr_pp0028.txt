@@ -1,0 +1,63 @@
+in some Tibetan translations from Sanskrit the original “termination” is explicitly indicated through the use of auxiliary verbs, in particular the auxiliary
+verbs 34) and འགྱུར་.
+
+Consequently, we can begin with these two primary verbs used to form
+auxiliary constructions: the verbs བྱེད་ and འགྱུར་ (and their tenses and alternate/
+
+honorific forms). The modal implications that vary with context and the types
+of verbs they accompany are as follows.
+
+1. THE VERB བྱེད (HONORIFIC: མཛད
+
+AND བཀྱིད་་)
+
+A. CAUSATIVE CONSTRUCTION
+The easiest application of the auxiliary verb བྱེད་ to understand is its use in form-
+
+ing a causative construction. When occurring with Class II, 111, and IV verbs, the
+auxiliary verb कै renders the causative form. For example, the verb འཇི་གས་ (Class
+II) means “to be afraid,’ but the construction འཇིགས་པར་བྱེད་ means “to cause to be
+
+afraid” and as a verbal phrase functions like a Class V verb (i.e., it takes an agent
+marked in the third case together with a nominative object). In general, three
+varieties of this construction occur: normative causative (verb + པར་བྱེད་; “to cause
+
+to do/be X”), negated causative (verb + པར་མི་བྱེད་; “to not cause to do/be X”), and
+causative with negated verb (neg. verb + པར་བྱེད་; “to maintain a state of not ×”).
+13. REFLEXIVE-CAUSATIVE
+
+CONSTRUCTION
+
+When occurring with Class V and VI verbs, however, the auxiliary verb 34
+(and བགྱིད་) produces a causative form that is reflexive in nature. This can be
+
+contrasted with verbal phrases formed with Class V and VI verbs with the (explicitly) nonreflexive-causative verb འཇུག་ /བཅུག་ /གཞུགས་
+/ཆུག་ (“to cause,” “to urge
+on,’
+
+399
+
+༦༦.
+
+“to entice”), which takes its verb in the simple infinitive.
+
+Hence, for ex-
+
+ample, one can find passages such as: དེ་ལ་གསོད་པར་བྱེད་པའམ། གསོད་དུ་བཅུག་པ་འགའ་
+
+ཡང་མེད་དོ། “Thus, there is no one at all who causes [themselves] to be killed or
+is caused to be killed,’ or in the case of a deontic causative (that is, a need that
+
+is externally caused) a passage such as རིགས་གཞན་གྱི་ལག་ནས་ཟས་ཟ་ད་གོས་སུ་བཅུག་ཀྱང་*་
+“However, [when external circumstances dictate that] it is necessary to eat food
+from the hand of someone from another caste ...”
+c. INDICATING SANSKRIT ACTIVE VOICE (PARASMAIPADA)
+
+When occurring in texts or passages translated from Sanskrit, the auxiliary
+verb 34 is used to explicitly indicate the active-voice (parasmaipada) termination rather than a causative construction. However, 1[ 3 reflexive pronoun is ex-
+
+plicitly provided, then this construction can also indicate a reflexive causative.
+
+20
+
+

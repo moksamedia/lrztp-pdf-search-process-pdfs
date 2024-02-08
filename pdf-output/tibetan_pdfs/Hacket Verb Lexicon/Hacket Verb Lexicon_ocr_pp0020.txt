@@ -1,0 +1,48 @@
+REPRESENTATION
+
+OF TENSE AND NEGATION
+
+With most collocations, variations in tense are handled in a manner which
+replicates the variation in the root verb. In some instances, however, this is
+
+not the case. Consequently, in this lexicon the different tenses of collocated
+verbs are listed explicitly. For example, the Sanskrit verbal root abhi-samVbudh is rendered in the Tibetan as མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ in the past tense
+but as མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་ in the future tense. In all collocations, however,
+
+negation is placed just prior to the final root verb (e.g., འཚང་མི་རྒྱ་ in the latter
+
+example).
+HOMOGRAPHS
+
+AND
+
+SENSES
+
+Any discussion of verbs necessarily raises the issue of polysemy, or word sense
+ambiguity, and hence semantic subcategorization. In Tibetan, as with other languages, it is possible to subcategorize verbs both in terms of their requisite syntactic structures (that is, by their arguments—agents, subjects, objects, complements,
+and qualifiers) and semantically in terms of the different senses conveyed. Both
+syntactic subcategorization (i.e, homographs) and semantic subcategorization
+(ie., senses) are provided here as they are attested in the literature.
+
+For example, we can observe both Class VIII and Class V syntactic patterns
+correlating with the verbs 95%, མཆིས་, སྨོས་, AWA’, and བྱེད་. The verb 7|&%, in its
+
+Class V usage, displays an active construction conveying the sense of “to say”
+or “to express”:
+
+བྱིས་པ་འགའ་ཡང་བཤེས་མིན་ཞེས།།དེ་བཞིན་གཤེགས་པ་རྣམས་ཀྱིས་གསུངས།
+All the tathagatas have said, “Do not befriend the childish.”
+Its Class VIII homograph, however, utilizes an attributive construction with a
+
+locative subject and nominative object conveying the sense of “to be called”:
+ངོ་བོ་ད་ང་ཁྱད་པར་དུ་འདོགས་པའི་གཞི་གཞན་དབང་ལ་གསུངས།
+
+Other-powered [natures] are called the basis of imputing entities and particulars.
+Similar examples can be seen with other verbs.
+
+Within a given syntactic category, variations in word sense can also be seen.
+For instance, in sentences involving the verb 4’, there are several different
+
+12
+
+

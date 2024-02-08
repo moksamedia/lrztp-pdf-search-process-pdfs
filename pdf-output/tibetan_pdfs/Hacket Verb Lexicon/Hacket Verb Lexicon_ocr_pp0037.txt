@@ -1,0 +1,144 @@
+LEGEND
+1. Domains
+
+Medicine
+
+Grammar
+
+Religion
+
+Theater
+Arts
+Mathematics
+
+Cataloging
+Legal
+Tantra
+2. Registers
+
+arch.
+euph.
+high hon.
+
+archaic
+euphemistic
+honorific
+high honorific
+
+idiomatic expression
+
+idiomatic expression
+
+hon.
+
+modern
+
+modern
+
+sastric commentary
+
+Sastric commentary
+superlative
+
+superlative
+3. Auxiliaries
+abil.
+adv.
+atma.
+atma.(refl.)
+
+abilitative
+adverbial
+middle voice (atmanepada)
+reflexive (atmanepada)
+
+caus.
+
+causative
+
+caus.(refl.)
+caus.(cont.)
+
+caus.emph.
+
+causative (reflexive)
+causative (continuative)
+causative emphatic
+
+caus.emph.(refl.)
+
+causative emphatic reflexive
+
+caus.imp.
+caus.emph.imp.(refl.)
+caus.opt.
+caus.pass.
+caus. prec.
+
+causative
+causative
+causative
+causative
+
+deon.
+deon.imp.
+desid.
+emph.
+emph.imp.
+
+imperative
+emphatic imperative (reflexive)
+optative
+(passive)
+
+causative precative
+deontic
+deontic imperative
+desiderative
+emphatic
+emphatic imperative
+
+emph.pt.
+
+emphatic past
+
+epis.
+exhort.
+fut.
+
+epistemic
+exhortative
+future
+future causative
+
+fut.caus.
+fut.cont.
+fut.pass.
+
+fut.pf.
+fut.pf.caus.
+
+के
+
+future continuative
+future passive
+future perfect
+
+future perfect causative
+
+imp.
+imperf.
+incep.
+
+imperative
+
+ind.const.
+
+indirect construction
+
+imperfective (pt. cont., habitual, repeating)
+inceptive
+
+31
+
+

@@ -1,0 +1,89 @@
+ind. inter.
+jus.
+opt.
+
+indirect interrogative
+jussive
+optative
+
+opt.caus.
+
+optative causative
+
+opt.caus.(refl.)
+opt.cont.
+
+optative causative (reflexive)
+optative continuative
+
+paras.
+
+emphatic-active voice (parasmaipada)
+
+pass.
+pass.imp.
+
+passive
+passive imperative
+
+perf.
+perform.
+
+perfective
+performative
+
+perm.
+
+permissive
+
+pr.cont.
+pr.pf.
+
+present continuative
+present perfect
+
+prec.
+
+precative
+
+prep.
+pt.
+
+preparative
+past
+
+pt.caus.
+pt.caus.(refl.)
+pt.cont.
+
+past causative
+past causative (reflexive)
+past continuative
+
+pt.pass.
+pt.pf.
+pt.pf.caus.
+
+past passive
+past perfect
+past perfect causative
+
+refl,
+
+reflexive
+
+semi.
+subj.
+transf.
+
+semimodal expression
+subjunctive
+transformative
+
+“AUX.” indicates the start of the “auxiliary constructions” section.
+“COLLOC.” indicates the start of the “verbal collocations” section.
+Source abbreviations for example sentences are given in the bibliography section.
+
+32
+
+

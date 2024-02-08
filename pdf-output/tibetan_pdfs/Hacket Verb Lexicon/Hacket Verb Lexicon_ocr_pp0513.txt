@@ -1,0 +1,36 @@
+BIBLIOGRAPHY
+Bod rgya tshig mdzod chen mo. (Yisun Zhang, ed.) Beijing: People’s Publishing House,
+1993.
+
+Bya tshig tshig mdzod. (Yongchang Li, ed.) Beijing: People’s Publishing House, 1988.
+Dus gsum re’u mig som //7/77 dra ba gcod pa’ ral gri. Dharamsala (India): n.p., 1964.
+Das, Sarat Chandra. An Introduction to the Grammar of the Tibetan Language. Darjeeling, 1915; reprinted Delhi: Motilal Banarsidass, 1972.
+
+Dorr, Bonnie J. “Machine Translation Divergences: A Formal Description and Proposed Solution,’ Computational Linguistics Journal 20, no. 4 (1994): 597-633.
+Dorr, Bonnie J., Lisa Pearl, Rebecca Hwa, and Nizar Habash. “DUSTer: A Method for
+Unraveling Cross-Language Divergences for Statistical Word-Level Alignment.’
+
+In Proceedings of the Fifth Conference of the Association for Machine Translation in
+the Americas, AMTA-2002. Tiburon, CA, 2002.
+Hackett, Paul G. Learning Classical Tibetan: A Reader for Translating Buddhist Texts.
+Boulder, CO: Snow Lion Publications, 2019.
+
+Hannah, Herbert. Grammar of the Tibetan Language. Delhi: Cosmo Publications, 1973.
+Kharto, Dorje Wangchuk. Thumi: dgongs gter (The Complete Tibetan Verb Forms).
+Delhi: Lakshmi Printing Works, n.d.
+
+Levin, Beth. English Verb Classes and Alternations. Chicago: Univ. of Chicago Press,
+1993.
+
+Monier-Williams, Sir Monier. A Sanskrit-English Dictionary. Oxford: Clarendon Press,
+1899.
+
+Wilson, Joe. Translating Buddhism from Tibetan. Ithaca: Snow Lion Publications, 1993,
+1998.
+
+Woodward, FE. L. The Book of the Gradual Sayings (Anguttara-Nikdya) or More-Numbered Suttas. London: Pali Text Society, 1932.
+Wylie, Turrell. “A Standard System of Tibetan Transcription.” Harvard Journal of Asiatic Studies 22 (1959): 261-267.
+
+507
+
+

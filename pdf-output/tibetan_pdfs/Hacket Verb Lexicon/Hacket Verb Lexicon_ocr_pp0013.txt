@@ -1,0 +1,112 @@
+treatises attributed to Thonmi Sambhota. In these texts and subsequent commentaries, Tibetan verbs are divided into three categories based on the dominant relational characteristics of their arguments: tha dad (“different”), tha
+mi dad (“not different”), and rjes mthun (“concordant”). In terms of function,
+however, these traditional verbal categories lack sufficient distinctions to serve
+as the basis of a fully descriptive system. Wilson's categories, on the other hand,
+provide a substantial basis for a rigorous verb subcategorization scheme. This
+subcategorization often, though not always, follows a variation in the number
+
+and types of arguments and sense. Different classes—as one might suspect—
+have different subcategorization profiles (also known as “alternations” or “syntactic frames”). As testimony to their validity, moreover, these categories can be
+
+seen to be nonconflictive and coextensive in coverage with Wilson's categories
+(see figure 1).
+
+Verb Class
+
+Subject/Object Relation
+
+I
+
+Nominative-nominative Verbs
+
+II
+
+Nominative-locative Verbs
+
+2.1
+
+गा
+
+IV
+
+एज
+
+concordant
+
+simple verbs of existence
+
+concordant
+
+2.2
+verbs of living
+not different
+2,3
+verbs of dependence
+not different
+2.4
+verbs expressing attitudes _ not different
+Nominative-objective Verbs
+3.1
+
+verbs of motion
+
+not different
+
+3.2
+
+nominative action verbs
+
+not different
+
+3.3
+
+rhetorical verbs
+
+not different
+
+Nominative-syntactic Verbs
+4.1
+
+separative verbs
+
+not different
+
+4.2
+4,3
+4.4
+
+verbs of absence
+conjunctive verbs
+disjunctive verbs
+
+not different
+concordant
+not different
+
+Agentive-nominative Verbs
+
+different
+
+VI _ Agentive-objective Verbs
+VII Purposive-nominative Verbs
+VIII Locative-nominative Verbs
+
+different
+not different
+
+8.1
+
+verbs of possession
+
+concordant
+
+8.2
+
+attributive usage
+
+different
+
+Figure 1. Correspondence Between Wilson Verb Class and Indigenous Categories
+5
+
+

@@ -1,0 +1,34 @@
+དེས་ཞིང་བྱར་སྣང་བར་བྱེད་ནུས།
+One has the ability to illuminate those one hundred [buddha] fields.
+In a passive construction, it conveys the sense of “to be perceived” or “to appear,’ as in:
+
+ཇཛི་ལྟ་བ་ལ་གཟིགས་པའི་ངོར་ཀུན་རྫོབ་མི་སྣང་།
+Conventionalities do not appear to the factor that perceives the
+mode [of subsistence].
+An extreme example of semantic differentiation can be seen in the case of
+omitted verbs. A sentence that terminates without a verb typically implies an
+omitted linking verb, such as ཡིན་. For example,
+
+སྟང་པ་ཉིད་གཟུགས་སཾ།
+Emptiness [is] form.
+This structure can also be seen with a single noun phrase—a complement, with
+a likewise implied anaphoric subject. That is the most common implication of
+such an explicitly terminated phrase: an omitted generic verb of predication.
+However, as the following example demonstrates, when a sentence terminates
+without a verb, though contains an agent explicitly marked, the implied verb
+omitted is བྱེད་ ("to make" or "to do"), a generic action verb. For example,
+
+BAN ANS Say Aa G Amar ara ay AR
+The designation [is made] with very suitable words.
+Here, the differing syntactic frames—two noun phrases versus a noun phrase
+and an agent—suffice to differentiate the omitted verbs ཡིན་ 3114 བྱེད་.
+
+These and other such distinguishing examples are provided (where attested) for each verb in the Verb Lexicon section.
+Verbal Forms
+
+Gerunds, gerundives, participles, verbal agents, and the variety of other constructions involving verbs are all distinguished in Tibetan by their suffixed particles. These variations can be grouped together by their usage and semantic
+implications.
+
+14
+
+

@@ -1,0 +1,40 @@
+The second type—the verbalization of an object—can be distinguished
+from instances which appear to be verbal collocations due to the high frequency of their co-occurrence. For example, the verb འཆལ་ has a high cooccurrence with the words ཚུལ་ཁྲིམས་ and ཤེས་རབ་ in the classical literature of
+
+Tibet. In terms of their grammar, however, the words ཚུལ་ཁྲིམས་ 3114 ཤེས་རབ་
+are actually the nominative subjects of the verb (“[His] ethics are faulty” and
+“[His] wisdom is deficient”). Consequently, these phrases do not constitute
+discrete verbal senses applicable to another subject but are complete sentences in their own right. Hence, neither can be considered true verbal collocations, and it should be clear, therefore, that high statistical co-occurrence
+
+cannot serve as a valid criterion for their identification.
+The third type—a dual verb collocation—is an instance in which a single
+distinct meaning is entailed by the combination of two otherwise separate
+verbs. For example, འཁྱོག་བཤད་་ from འཁྱོག་ and स्तर, བཙན་སྤྱོད་ from བཙན་ and 94,
+or བཏཅུ་ལ་ཞུགས་ from བཏུ་ལ་ and ཞུགས་. It is to be distinguished from mere combi-
+
+nations (“doing X and Y” or “having done X, doing Y”) and infinite objects
+(“X-ing to do Y”). This former group is distinguished by both compositionality
+and substitutability and generally occurs with two verbs of the same class and
+
+the same requisite grammar. For example, a passage in Santideva’s Engaging in
+“Bodhisattva Deeds reads (X.10cd)
+བདག་གི་དགེ་བའི་སྟོབས་ཀྱིས་ལྷ་ཡི་ལུས་ཐོབ་ནས།
+
+ལྷ་མོ་རྣམས་དང་ལྷན་ཅིག་དལ་གྱིས་འབབ་གནས་ཤོག
+where འབབ་གནས་ཤོག16 taken as འབབ་ཅིང་གནས་པར་ཤོག of ag འབབ་པ་ན་གནས་པར་ཤོག. The
+latter group occurs with several verbs but is exemplified by the Class III verb
+ད་ཀའ་ which takes as its object a second verb in the infinitive, as in རཆྙེད་པར་དཀའ་
+
+“difficult to find” 334 ཤེས་པར་ད་ཀའ་ “difficult to know” These are often abbreviin determining the grammar of the sentence, though it may at times be accompanied by its own object or adverb
+~
+Another illustration of this point can be seen in the sentence:
+པཌ་ཆེན་ཉིད་ཀྱིས་བརྡའ་ཆད་འདི་རྣམས་ལ་གཅེས་པར་ཟུངས་ཤིག
+
+where one might be tempted to think that གཅེས་པར་ཟུངས་ 1६ a verbal collocation.
+In this sentence, we can see that the object of the verbal phrase is marked by
+an objective case particle (ལ་), indicating that the verb phrase would be a Class
+
+VI agentive-objective “verb?” However, we know that while གཅེས་ is a Class VI
+9
+
+

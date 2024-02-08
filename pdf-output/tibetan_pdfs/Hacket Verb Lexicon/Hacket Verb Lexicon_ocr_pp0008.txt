@@ -1,0 +1,57 @@
+edition, the utility of its contents will suffice for the time being (or, at least, for
+another fifteen years).
+PauL G. HACKETT
+New York, New York
+January, 2018
+
+NOTES
+1. Joe Wilson, Translating Buddhism from Tibetan (Ithaca: Snow Lion Publications, 1992 and 1998).
+Although I shall repeatedly refer to Wilson's text as a presentation of Tibetan grammar, it is,
+more accurately speaking, a presentation of Tibetan grammar that incorporates Tibetan-English
+transfer rules. Hence, the book's structure takes the form of a pedagogical textbook rather than
+a strictly theoretical analysis and, consequently, is considered superior to other presentations of
+Tibetan grammar in terms of its ease of implementation in a computational environment.
+
+A
+
+guide to his and other abbreviations used in this book, is provided at the beginning of Part II.
+2. The notable scholar Michael Hahn, in his various presentations of Tibetan grammar, chose
+to deploy the most general linguistic Latinate terms to Tibetan in his research, which often
+delved into the realm of historical linguistics—a subject that is not addressed here. In certain
+other circles in Europe, however, there is what can only be described as a bizarre obsession
+with Slavic linguistics in relation to Tibetan. Correspondingly absent from those presentations
+is any treatment of languages that have actual linguistic relevance to Tibetan, such as Sanskrit
+and Apabhraméa, Burmese (the other half of the Tibeto-Burman language group), or any of
+the so-called Silk Road languages of the past or present, such as the variety of Prakrit languages
+of first millennium Tun-huang or modern-day Uyghur, Uzbek, or any of the other Turkic
+languages, which have certain correspondences with Tibetan. Since these latter presentations
+offer less of a practical description of the Tibetan language and more of a self-indulgent intellectual exercise, I have not made reference to them and refer instead to the Sanskritic linguistic
+categories—categories well-defined by the Tibetans themselves in terms comparable to many
+Latin equivalents. Consequently, in addition to refering to Joe Wilson’s verb classes, cases, and
+syntactic particles, I will use these Latinate terms freely in the body of this text, pausing to define
+incidentally only the terms that may be more obscure to an English speaker or which possess a
+distinctive connotation for Tibetan derived from a comparable Sanskrit usage.
+3. Wilson, op.cit.; Dorje Wangchuk Kharto, Thumi: dgongs gter (Delhi: Lakshmi Printing Works,
+n.d.); dus gsum 72४ mig som nyi’i dra ba gcod pa’i ral gri (n.p., 1964), bod rgya tshig mdzod chen
+mo (Beijing: People’s Publishing House (mi rigs dpe skrun khang), 1993); and bya tshig tshig
+mdzod (Beijing: People’s Publishing House (mi rigs dpe skrun khang), 1988). These have also
+served as the preliminary source of verb tenses and definitions for verbs that have not yet been
+validated (i.e., where no example sentences have been provided).
+
+4. For example, regarding citations to the bya tshig tshig mdzod (Beijing: People’s Publishing House
+(mi rigs dpe skrun khang), 1988) in the first edition, Hill remarked, “Il semble que Hackett pense
+que le Tshig mdzod chen mo (Zhang 1985) et le Bya tshig tshig mdzod (Li 1985) sont indépendants.” Given that it is generally considered good academic form to cite the actual works that
+one has consulted, the citation of different published works with overlap of coverage would
+not have come as a surprise to an experienced scholar. Indeed, leaving aside the issue of Mr.
+Hill’s overly enthusiastic attempts to find fault with my work (presumably as part of an attempt
+to justify the relevance of his then-recently completed M.A. thesis on Tibetan verbs) and his
+slavish adherence to Tournadre’s perspectives on Tibetan grammar as authoritative, I would
+point out that had Mr, Hill actually bothered to make a close examination of the two works
+he would have discovered that there are indeed differences between similar entries in the two
+published volumes despite claims otherwise.
+5. I should note that I first became aware of Ms. Zeissler’s work when she published a scathing
+review of the first edition of this lexicon. The review was so unprofessional in tone that it was
+subsequently repudiated by the journal's editorial board, and in particular, because it had bypassed scholarly review and been published without their knowledge or approval.
+xii
+
+

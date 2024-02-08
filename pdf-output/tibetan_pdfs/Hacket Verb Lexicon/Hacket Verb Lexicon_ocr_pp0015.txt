@@ -1,0 +1,45 @@
+The predominant variation in use of tha dad verbs—corresponding to
+Classes V, VI, and VIII.2 verbs—is between the active and passive uses. The
+active use of a verb centers around an action involving two participants, where
+
+one—the agent—serves as the entity that brings about a change of state, and the
+second is the entity that undergoes the change of state. The passive use of a verb
+
+involves only a single participant—the one that changes state. Unmodified tha
+mi dad verbs do not involve objects that undergo a change of state but rather
+such changes occur to the subject, if at all. Sarat Chandra Das, for instance,
+lists some semantic pairs which display these features. As an illustration of this
+distinction, Das’s verb are reproduced with their associated Wilson categories
+in table 1.
+VERBAL COLLOCATIONS
+
+Collocations, in general, are defined in terms of three attributes: noncompositionality, nonsubstitutability, and nonmodifiability. Noncompositionality
+refers to a meaning which is completely different from the free combination
+of words or which bears a connotation that is in excess of the sum of its parts.
+Nonsubstitutability refers to the inability to produce a sensible phrase by sub-
+
+stituting words for the components of a collocation. Finally, nonmodifiability
+refers to the inability of a collocation to accept adjectival or pluralizing modifications of the whole or its parts. In a cross-language environment, such
+phrases are readily identifiable as collocations by the first attribute, which
+tends to result in a nonsensical reading when rendered literally into the target
+language. In Tibetan, verbal collocations (or “phrasal verbs” as Wilson calls
+them) are a set of verbs that are formed through the addition of one or more
+adverbs or other modifiers; they adhere strongly to the first and second attributes, but only weakly to the third.
+
+Verbal collocations, moreover, may or may not participate in the paradigmatic grammar of the root verb. In general, there are three types of Tibetan
+
+verbal collocations:
+¢
+༠
+
+verbal collocations that result from the use of an idiosyncratic adverb (such as ཙོག་པུར་སྡོད་ from £0’)
+verbal collocations that arise from the verbalization of an object or
+complement (such as ཡིད་ལ་གོམས་ from གོམས་)
+
+༠
+
+verbal collocations that arise out of the combination of two discrete verbs (such as འཁྱོག་བཤད་ from འཁྱོག་ and བཤད་, བཙན་སྤྱོད་་ from
+བཙན་ and སྤྱོད་', or ཤི་འཕོས་ from ཤི་ and འཕོས་)
+7
+
+

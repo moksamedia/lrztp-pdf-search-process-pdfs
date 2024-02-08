@@ -1,0 +1,47 @@
+PREFACE
+
+ABOUT
+
+THE
+
+SECOND
+
+EDITION
+
+It has been fifteen years since the publication of the first edition of A Tibetan
+Verb Lexicon. As noted in that first edition, the information presented was
+
+initially compiled as a resource lexicon recording the syntactic features of
+Tibetan verbs for the purposes of natural language processing and computational linguistic analysis aimed at the automatic processing of Tibetan text.
+Understandably, the scope of that first edition was limited by the resources
+
+available to me at the time. Since then, numerous additional resources have
+become available, enhancing and enabling research in Tibetan verbs. In addition to the growth of e-text archives (in both Tibetan and Sanskrit), the
+publications of several Sanskrit texts by the scholars in Sarnath, Vienna, and
+
+Beijing, as well as Negi’s voluminous Tibetan-Sanskrit dictionary (bod skad
+dang legs sbyar gyi tshig mdzod chen mo, Varanasi 1993-2005) have greatly
+enhanced the ability to consult the large body of extant Sanskrit canonical
+literature for the purpose of determining the range of meanings and senses of
+
+Tibetan verbs and verbal collocations.
+Over the years I have received much positive feedback and constructive
+suggestions from many people (and less-than-constructive criticism from a
+few), all of which I have attempted to incorporate into this second edition.
+
+While the first edition was limited to the subset of verbs that I had been able to
+validate and locate example sentences for (less than one third of my complete
+database at the time), this second edition is far more inclusive in scope, covering nearly all verbs attested in other lexical resources. It also covers all of the
+verbs in the texts included in the author's recently published Tibetan language
+
+reader, Learning Classical Tibetan: A Reader for Translating Buddhist Texts, as
+well as some newly identified verbs not found in any other dictionaries. As
+with the first edition, information related to the verbal classification scheme
+derived from Joe Wilson's presentation of Tibetan grammar is included.’ A
+major addition to this lexicon, however, is the inclusion of auxiliary verb constructions, identification of their modal ranges, and example sentences (many
+
+with Sanskrit equivalents). A discussion of modal auxiliary verbs is included
+in the introduction.
+It bears explicit mention that this verb lexicon is self-consciously aimed
+
+
